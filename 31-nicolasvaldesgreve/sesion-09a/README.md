@@ -2,7 +2,7 @@
 
 # Apuntes clase 12/05
 
-Ésta clase tuvo que ser mediante zoom debido a un incendio en república, lo cual hace un poco más difícil el trabajo ya que estamos usando el computador para trabajar y para ver la clase al mismo tiempo, lo cual es un poco confuso y nos puede distraer.
+Esta clase tuvo que ser mediante zoom debido a un incendio en república, lo cual hace un poco más difícil el trabajo ya que estamos usando el computador para trabajar y para ver la clase al mismo tiempo, lo cual es un poco confuso y nos puede distraer.
 
 ### Repaso rápido de KiCad
 
@@ -31,7 +31,7 @@ Como ya tenemos los grosores deseados, podemos empezar a crear las pistas ubicá
 
 ![Herramienta para hacer las pistas](./imagenes/enrutar-pista.png)
 
-Luego de aprender ésto, empezamos a hacer las conexiones positivas ya que Misa dijo que es mejor dejar el GND para el final con una herramienta que lo hace más rápido, por lo que seleccionamos la herramienta de ``Enrutar Pista Única`` y empezamos a conectar las cosas a VCC. Para evitar que se toquen las pistas, puedes ir turnandote entre pistas por el lado frontal y el lado trasero, pero en el caso de que aún así no puedas hacerlo sin pasar a llevar otra pista, puedes usar la opción de ``Vías``, las cuales se hacen con la misma opción de enrutar pistas pero cuando quieras cambiar del lado frontal al trasero (o al revés), tienes que presionar la tecla ``V`` y se hará un orificio por donde viajará la pista de una cara de la PCB a la otra. Para poder editar el tamaño de la vía, tenemos que hacer el mismo proceso que se hizo con las pistas solo que ésta vez presionaremos el símbolo ``+`` que está en la columna de ``Vías``.
+Luego de aprender ésto, empezamos a hacer las conexiones positivas ya que Misa dijo que es mejor dejar el GND para el final con una herramienta que lo hace más rápido, por lo que seleccionamos la herramienta de ``Enrutar Pista Única`` y empezamos a conectar las cosas a VCC. Para evitar que se toquen las pistas, puedes ir turnando entre pistas por el lado frontal y el lado trasero, pero en el caso de que aún así no puedas hacerlo sin pasar a llevar otra pista, puedes usar la opción de ``Vías``, las cuales se hacen con la misma opción de enrutar pistas pero cuando quieras cambiar del lado frontal al trasero (o al revés), tienes que presionar la tecla ``V`` y se hará un orificio por donde viajará la pista de una cara de la PCB a la otra. Para poder editar el tamaño de la vía, tenemos que hacer el mismo proceso que se hizo con las pistas solo que ésta vez presionaremos el símbolo ``+`` que está en la columna de ``Vías``.
 
 ![Tamaños para vías](./imagenes/editar-vias.png)
 
@@ -43,7 +43,6 @@ Una vez la seleccionemos, haremos click en nuestra tabla de trabajo y nos aparec
 
 ![Opciones nombre de red](./imagenes/gnd.png)
 
-Para poder montar nuestra PCB a nuestra carcasa, tenemos que hacerle hoyos para poder poner separadores o pernos (los pernos son la opción más barata), por lo que Misa nos recomienda su tamaño predeterminado que es para el perno M3. Para poder añadir los espacios para los pernos, hay que buscar en símbolos la opción de ``Mounting Hole``, en donde 
-mounting hole m3 huella mounting hole 3.2mm (m3)
+Para poder montar nuestra PCB a nuestra carcasa, tenemos que hacerle hoyos para poder poner separadores o pernos (los pernos son la opción más barata), por lo que Misa nos recomienda su tamaño predeterminado que es para el perno M3. Para poder añadir los espacios para los pernos, hay que buscar en símbolos la opción de ``Mounting Hole`` y pondremos cuatro en nuestro esquemático. Luego de tenerlo en el esquemático, le añadimos la huella ``mounting hole 3.2mm`` que corresponde al M3 para luego pasarlo al editor de placas y poder ubicarlos en donde nos guste.
 
-archivo importar rggaficos dxf
+> DATO: para poder importar vectores, hay que descargar un archivo .dxf o podemos hacer nuestro propio vector, ir a archivo, seleccionar la opción de importar gráficos, buscamos nuestra imagen y podremos modificar su escala si es necesario.
