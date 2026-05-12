@@ -1,6 +1,6 @@
 # sesion-08a
 
-martes 12 de mayo 2026
+martes 28 de abril de 2026
 
 desde acá aprenderemos kicad
 
