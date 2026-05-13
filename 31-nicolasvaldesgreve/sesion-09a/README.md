@@ -59,3 +59,26 @@ Para éste encargo decidí hacer la sección del reloj (chip 555) y del amplific
 
 Cuando terminé de mover los componentes y unirlos, llegó el momento de asignar huellas y utilicé las que nos habían mencionado la clase antes pasada, los cuales son los siguientes:
 
++ Capacitores cerámicos: ``Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm``
++ Resistencias: ``Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal``
++ Capacitores con polaridad: ``Capacitor_THT:CP_Radial_D5.0mm_P2.50mm``
++ LEDs: ``LED_THT:LED_D5.0mm``
++ Potenciómetro: ``Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal``
++ Parlante: ``TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm``
++ Chip de 8 pins (555 y lm386): ``Package_DIP:DIP-8_W7.62mm``
++ Batería 9V: ``TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm``
++ Separadores: ``MountingHole:MountingHole_3.2mm_M3``
+
+Una vez ya agregadas las huellas, di el esquemático por terminado y quedó así:
+
+![Esquemático 555 sintetizador "Tincado"](./imagenes/clock-synth-tincado.jpg)
+
+Como ya todos los símbolos tenían sus huellas asignadas, pasé todos los elementos al modo placa para poder empezar a editar mi PCB. Como tamaño elegí hacer un rectángulo de 90 x 55 mm (tamaño de tarjeta de presentación) y dejé las puntas redondeadas con un radio de 7mm. Como ya tenía el límite definido, empecé a ordenar los componentes y luego hice las pistas de cobre de todos los positivos para dejar los negativos al final. Cuando terminé de hacer las pistas, me di cuenta que no había cambiado su tamaño por lo que borré todo (que no es mucho la verdad) y lo hice con los tamaños que utilizamos durante la clase, lo que me dejó la duda de si es posible editar el tamaño después de haber hecho todas las pistas o si necesariamente tiene que ser antes de partir con todo. Cuando terminé de hacer las pistas (incluyendo las que tienen vías) quise poner un vector ya que se veía muy vacío el lado derecho de la placa, por lo que seguí los pasos que nos mostraron en clases y puse un vector de snoopy junto a una de las frases que más usan los fans de Peanuts, lo cual quedó así:
+
+![Lado frontal de la PCB](./imagenes/pistas-frontales.png)
+
+![Lado trasero de la PCB](./imagenes/pistas-traseras.png)
+
+![PCB por ambos lados](./imagenes/total-pcb.png)
+
+![Render PCB](./imagenes/pcb-render.png)
