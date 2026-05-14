@@ -110,3 +110,9 @@ Como se puede ver el render 3D, en la parte frontal no se ve nada del vector que
 Como no se veía y asumí que era por la capa en la que estaba ubicada, decidí probar poniendo el vector en la capa de ``F.Paste`` la cual también se ubica en el lado frontal de la placa y cuando me metí al visor 3D se veía así:
 
 ![Placa con vector frontal yipiiii](./imagenes/cambio-de-capa.png)
+
+Mientras sacaba screenshots para documentar mi proceso, intenté descargar el pdf de la placa al igual como lo hice con el esquemático para que se vea más limpio y no tener que mostrarlo mediante screenshots, pero al momento de presionar para ver la previsualización del pdf me salió esto:
+
+![Previsualización de pdf PCB](./imagenes/vista-pdf.png)
+
+La verdad no entiendo por qué se ve así, pero me gustaría saber si hay alguna manera en la cual uno pueda sacar el pdf de la placa y que se puedan apreciar las pistas que ésta tiene.
