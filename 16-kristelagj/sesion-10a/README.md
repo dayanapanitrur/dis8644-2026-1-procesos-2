@@ -30,5 +30,6 @@ En este minuto de mi vida estoy experimentando muchas cosas y esta es una de ell
 
 ¿A que voy con todo esto además de una pequeña reflexión?, es que a veces pienso que nada es de vida o muerte, todo tiene su tiempo y nadie aprende de la nada algo o no vamos todos al mismo ritmo. Entonces realmente prefiero hacer 1 cosa bien a 2 mal. Realmente yo entre a este taller porque conocía a Aaron y me acuerdo perfectamente cuando en primer año me invitó a su taller explícitamente porque me encontraba una persona motivada —me lo dijo textual— que él quería personas como yo en su taller, no sé si eso lo seguirá pensando, pero a mi mercaron sus palabras, pero estoy dispuesta aprender cosas nuevas a pesar de que esa fue mi razón por la cual estoy aquí ahora. 
 
+(La verdad es que vengo a reflexionar de mi vida y las cosas que estoy haciendo, mi bitácora se ha convertido en eso ahora) 
 
 
