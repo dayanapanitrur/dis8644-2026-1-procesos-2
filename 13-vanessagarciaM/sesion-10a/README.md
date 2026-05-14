@@ -93,7 +93,8 @@ Dato: no son dibujos; son vectores, píxeles, gráficos (en DXF o SVG).
 ![clase](./imagenes/clase.jpeg)
 ![clase](./imagenes/clasee.jpeg)
 
- 
+Bloque de terminales o conector de tornillo, de tipo modular, con soporte de hasta 16 A con 300 Volts AC. Posee un tamaño mediano, además de una separación entre pines de 5 mm (0.2 pulgadas).Es compatible con protoboard.
+![terminal](./imagenes/terminal.jpeg)
 
 
 
