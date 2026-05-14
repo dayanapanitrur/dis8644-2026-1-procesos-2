@@ -121,3 +121,10 @@ La verdad no entiendo por qué se ve así, pero me gustaría saber si hay alguna
 
 Como parte del encargo también se nos indicó leer la introducción junto al primer capítulo del libro "Hacia una filosofía de la fotografía" del autor Vilém Flusser
 https://monoskop.org/Vil%C3%A9m_Flusser https://www.flusser-archive.org/
+
+++++el fotografo no es libre a pesar de que crea que lo es al poder escoger su modelo o fotografiar algo desde su punto de vista, ya que éste está siendo limitado por la misma cámara y su programa el cual decide qué puede hacer y qué no puede hacer, pero a pesar de todo esto el sentimiento de libertad proviene de igual manera debido a que el fotografiar no es una actividad laboral clásica sino que es una actividad lúdica, es decir, la cámara es un juguete y fotografiar termina convirtiéndose en un juego para el fotógrafo con la cámara
+
+En la segunda página de la presentación del ensayo de Vilém Flusser, Joan Costa menciona que la propuesta de Flusser es "obligar al aparato a hacer lo que él no quiere, o no puede hacer, porque no está inscrito en su programa" lo cual me quedó haciendo ruido durante la lectura ya que a pesar de que sé que no es algo literal, de igual manera no me gustan mucho las metáforas sobre forzar a alguien o algo a hacer algo que ellos o éste no quiera hacer ya que todo lo relacionado a las coacciones me genera rechazo, y sé que tal vez es tonto el sentirme así ya que lo mencionan a manera de "rebelión" contra el aparato en sí, pero no puedo evitar que me haya incomodado la manera en la que explicaron la propuesta (aunque tal vez está redactado de esa manera para generar ese sentimiento y no me di cuenta!!).
+
++ Propicia: Favorecer que algo acontezca o se realice.
++ 
