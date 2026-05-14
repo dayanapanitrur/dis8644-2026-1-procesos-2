@@ -116,3 +116,8 @@ Mientras sacaba screenshots para documentar mi proceso, intenté descargar el pd
 ![Previsualización de pdf PCB](./imagenes/vista-pdf.png)
 
 La verdad no entiendo por qué se ve así, pero me gustaría saber si hay alguna manera en la cual uno pueda sacar el pdf de la placa y que se puedan apreciar las pistas que ésta tiene.
+
+### Hacia una filosofía de la fotografía
+
+Como parte del encargo también se nos indicó leer la introducción junto al primer capítulo del libro "Hacia una filosofía de la fotografía" del autor Vilém Flusser
+https://monoskop.org/Vil%C3%A9m_Flusser https://www.flusser-archive.org/
