@@ -38,6 +38,7 @@ KiCad es un software gratuito y de fuente abierta para diseño y fabricación de
 | `X` | reflejar a lo largo del eje X (de abajo para arriba) |
 | `W` | modo cable |
 | `E` | propiedades (se puede cambiar la referencia) |
+| `G` | agarrar el componente |
 
 > también se puede hacer click en el valor para alejarlo del componente
 
