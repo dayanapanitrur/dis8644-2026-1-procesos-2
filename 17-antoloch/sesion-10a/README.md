@@ -13,25 +13,25 @@ Menos mal no estamos en pandemia, porque creo que moriría de aburrimiento con t
 - Al principio me costaba mucho acordarme de los pasos, pero gracias al orden de **Misaa** pude organizar bien la secuencia en mi cabeza.  
 - Obviamente aprendo mucho más realizando las cosas, así que me ayudó mucho que la sesión estuviera **grabada**.  
 - En la clase puse atención, claro, pero después al verla grabada pude repetir y repetir hasta quedar sin dudas de los pasos.  
-- Tengo muy mala memoria :( así que la grabación fue clave para reforzar lo aprendido.
+  Tengo muy mala memoria :( así que la grabación fue clave para reforzar lo aprendido.
 
 ---
 
 ## Encargo 10A
 
-- **Esquemáticos y PCB en KiCad**  
-- Cada estudiante debe tomar **2 de las 4 secciones distintas** del sintetizador realizado en el Proyecto 1.  
-- Crear un proyecto en KiCad por cada sección, que contenga tanto el **esquemático** como la **PCB**.  
-- Anotar cada paso en la **bitácora**, incluyendo:  
+  **Esquemáticos y PCB en KiCad**  
+ Cada estudiante debe tomar **2 de las 4 secciones distintas** del sintetizador realizado en el Proyecto 1.  
+ Crear un proyecto en KiCad por cada sección, que contenga tanto el **esquemático** como la **PCB**.  
+ Anotar cada paso en la **bitácora**, incluyendo:  
   - Mayores aprendizajes  
   - Dificultades encontradas  
   - Problemas y dudas que quieran que abordemos en la próxima clase  
 
 ###  Mi avance
 - Hice **dos esquemáticos**.  
-- En el primero me demoré un montón, pero no tuve muchos errores porque me lo tomé con calma.  
-- Como es algo nuevo todavía no me acostumbro al 100%, pero la práctica me está ayudando a mejorar.  
-- Aún no entiendo bien lo de **asignar huellas**: me confunde por qué algunas son tan específicas y cómo saber si estoy poniendo la correcta.  
+  En el primero me demoré un montón, pero no tuve muchos errores porque me lo tomé con calma.  
+  Como es algo nuevo todavía no me acostumbro al 100%, pero la práctica me está ayudando a mejorar.  
+  Aún no entiendo bien lo de **asignar huellas**: me confunde por qué algunas son tan específicas y cómo saber si estoy poniendo la correcta.  
 
 ### Atajos y herramientas útiles en KiCad
 - **A** = herramienta agregar símbolo  
@@ -85,12 +85,7 @@ Esquemático 1
 
 ## Personals antoloch yo misma 
 
-- Durante este semestre me he sentido **muy orgullosa de mí misma**.  
-- Normalmente no soy de esas personas que se tiran para adelante, siempre había algún motivo que me frenaba.  
-- Pero ahora he seguido aprendiendo, he seguido mejorando, y estoy orgullosa del cambio de visión que he tenido.  
-- Incluso muestro mis trabajos a todo el mundo, no me escondo.  
-- He conversado con distintas personas que también saben de electricidad, y gracias a esas conversaciones he aprendido muchísimo más.  
-- Lo más bonito es que incluso personas cercanas a mí, que no sabía que tenían conocimientos de electricidad, me han sorprendido y enseñado cosas nuevas.  
+ Durante este semestre me he sentido **muy orgullosa de mí misma**. Normalmente no soy de esas personas que se tiran para adelante, siempre había algún motivo que me frenaba. Pero ahora he seguido aprendiendo, he seguido mejorando, y estoy orgullosa del cambio de visión que he tenido, incluso muestro mis trabajos a todo el mundo, no me escondo. He conversado con distintas personas que también saben de electricidad, y gracias a esas conversaciones he aprendido muchísimo más. Lo más bonito es que incluso personas cercanas a mí, que no sabía que tenían conocimientos de electricidad, me han sorprendido y enseñado cosas nuevas.  
 
 lectura de libro de Flusser, capítulo 1
 
