@@ -8,7 +8,7 @@ caja negra... revisar
 
 --------
 
-##charla##
+## charla ##
 
 -----------
 
