@@ -19,7 +19,7 @@ The grid with the field became a place where everything fit, many things are ins
 They wanted to share their work with many people and cultures, that's one of the most important goals. With each exhibition they want to do publications, so they have a bunch of different publications of each project. They have done around 7 projects in different places and each project is unique cause they make it depending on the place, the artists, the curators, etc.
 
 #### Simon
-Scanner, it is used to measure the world, it has a laser and a mirror that moves vertically and horizontally, which makes the laser move around the space, and when it crashes with something it goes back. This model has 8.000.000.000 points, each of these points means each time the laser "crash" with something, the time the laser takes to return is how it measures.
+Scanner, it is used to measure the world, it has a laser and a mirror that moves vertically and horizontally, which makes the laser move around the space, and when it crashes with something it goes back. This model has 8.000.000 points, each of these points means each time the laser "crash" with something, the time the laser takes to return is how it measures.
 
 It creates "clouds", he wasn't interested in measures but in clouds and trees. For us the trees are too small, for the trees the mountain is too fast and for the mountain the tree is too fast. It's about measures and scales.
 
