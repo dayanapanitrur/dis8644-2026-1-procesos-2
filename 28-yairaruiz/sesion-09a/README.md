@@ -45,17 +45,3 @@ Cuando las conexiones se cruzan, las pistas no pueden pasar una encima de otra e
 Una vía es una conexión que une la capa frontal (F.Cu) con la capa trasera (B.Cu). Mientras se está trazando una pista, si esta se cruza con otra, se puede crear una vía para continuar el recorrido por la parte trasera y así evitar cruces. Con la tecla V se puede cambiar entre la capa frontal y la trasera durante el trazado.
 Si hacemos click en una vía, también es posible modificar su tamaño. 
 
-## Flusser, capítulo 1 
-
-Vilém Flusser fue un filósofo y escritor checo-brasileño que trabajó temas relacionados con la comunicación, las imágenes y la tecnología. En sus textos reflexiona sobre cómo los medios técnicos cambian nuestra manera de pensar y de relacionarnos con la realidad.
-
-En este capítulo se habla de cómo las imágenes, la escritura y la tecnología cambian la forma en que entendemos el mundo. Vilém Flusser parte hablando de la fotografía, pero en realidad se refiere a algo mucho más grande, que es cómo los medios técnicos como las cámaras, el cine, el video o las computadoras terminan influyendo en nuestra forma de pensar y también de vivir.
-
-Habla de las “imágenes técnicas”, que serían imágenes hechas mediante aparatos tecnológicos y no solamente por la mano humana, como pasa con una pintura o un dibujo. Entonces la cámara no sería algo totalmente neutral, porque igual condiciona lo que podemos hacer y cómo vemos las cosas.
-
-Flusser diferencia dos formas de pensamiento:
-
-+ el pensamiento mágico: relacionado con las imágenes
-+ el pensamiento histórico o lineal: relacionado con la escritura
-
-Me deja pensando esto, porque hoy estamos rodeados de imágenes y tecnologías que influyen mucho en cómo mostramos nuestra vida y en cómo vemos la realidad. Pero igual me surge una duda, porque la fotografía para mí es importante y tiene un valor más personal, ya que me ayuda a guardar recuerdos y a mantener parte de mi historia. Siento que ahí la imagen no reemplaza la realidad, sino que la acompaña. Aunque ahora, con las redes sociales, a veces esas imágenes también se usan más para mostrar o “publicar” la vida que para recordarla realmente y me hace preguntarme si la fotografía realmente captura el momento tal como es, o si termina mostrando más lo que queremos aparentar. 
