@@ -17,8 +17,7 @@ Hoy comenzamos hablando sobre la charla que estuvo a cargo de Aaron llamada “G
 - Misaa
 
 1/4W 
-componente / valor / huella
-R           10K      resistencia 6.3 mml
+componente / valor / huella   →    R       10K      resistencia 6.3 mml
 
 Pitch → distancia entre las patas.
 
