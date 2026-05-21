@@ -16,9 +16,8 @@ La clase de hoy fue un repaso + un agregado de súper valor…, Así que veamos 
 Ya con estos pasos en cuenta, continuemos con la clase:  
 1.	Como abrir archivos de trabajo. 
 2.	Atajos de teclado.
-3.	Como buscar componentes (los que más solemos usar)
-4.	La pcb (nuestra placa real)
-5.	Encargo para la siguiente clase.
+3.	La pcb (nuestra placa real)
+4.	Encargo para la siguiente clase.
 
 ## 1.	Como abrir archivos de trabajo. 
 Cuando un archivo ya está creado y guardado, se abre desde la extensión:   
@@ -52,6 +51,5 @@ Cuando un archivo ya está creado y guardado, se abre desde la extensión:
 |**`Ctrl + D`**| Duplicar | 
 **`Ctrl + Z`**| Volver atrás  | 
 
-## 3.	Como buscar componentes (los que más solemos usar)
-## 4.	La pcb (nuestra placa real)
-## 5.	Encargo para la siguiente clase.
+## 3.	La pcb (nuestra placa real)
+## 4.	Encargo para la siguiente clase.
