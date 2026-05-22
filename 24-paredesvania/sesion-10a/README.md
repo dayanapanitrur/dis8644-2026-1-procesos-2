@@ -1,130 +1,58 @@
-# Sesión 10a — 12.05
+# sesion-10a 19.05.26
 
-> Online por el incendio
+Si queremos diseñar fuera del programa, tenemos que imaginar otras cosas.
+¿Cuál es el límite?
 
-## KiCad — Atajos de teclado
+## Charla | For want or (not) measuring (Para querer o no medir)
 
-| Tecla | Qué hace |
-|-------|----------|
-| `A` | Agregar componente |
-| `R` | Rotar componente |
-| `G` | *Grab* — mueve el componente arrastrando los cables conectados |
-| `M` | Mover (sin arrastrar cables). Primero `Esc` para volver al modo selección, clic en el componente y luego `M` |
-| `E` | Editar propiedades (nombre, valor, huella, hoja de datos) |
-| `V` | Asignar valor a un componente / cambiar de capa cobre frontal a la de atrás (en PCB) |
-| `X` | Reflejar en eje X |
-| `I` | Reflejar en eje Y |
-| `Esc` | Herramienta de selección |
-| `Cmd + D` | Duplicar componente |
-| `Cmd + Z` | Deshacer |
-| `Option + 3` | Abrir visor 3D |
+### Jim Hobbs
+Patrick Adam Jones, Jim Hobbs, Simon Withers y Philip Hudson vienen de Inglaterra, por una exposición este sábado en CEINA. Están trabajando en una curatoría llamada "For want or (not) measuring".
 
-## KiCad - Conceptos
+Jim Hobbs and Patrick started this project en 2022, about finding the intersection between the work of both of them, they wanted to see their work with other artists and works, ¿How do we use measures in our life?, it explores how the artists see the perception of time and measures.
 
-### Agregar componentes
-- En el menú de componentes, `R` filtra resistencias directamente.
-- También se puede buscar por nombre: `LED`, `VCC`, `GND`, etc.
-- Si algo queda sin conectar, hay que ponerle la **X de no conexión**, si no, el DRC se va a quejar.
+Patrick has a gallery in England that's called "Project 78 gallery". In 1774 people tried to calculate the weight of the world by climbing a mountain, and he continues doing that.
 
-### Huellas (*Footprints*)
-- Son el estado físico del componente, es decir, cómo va a quedar en la placa real.
-- Si están mal -> todo está mal
-- El nombre sigue el formato: **ESPECIE / INDIVIDUO** (tipo de componente / variante específica).
+Wikipedia says: El experimento de Schiehallion (1774) fue un hito histórico de la geofísica realizado en la montaña escocesa del mismo nombre. Ideado para calcular la masa y densidad media de la Tierra, consistió en medir cómo la masa de la montaña atraía lateralmente a un péndulo, desviándolo de su vertical natural.
 
-### Tabla de información de la hoja
-- Doble clic en la tabla roja para editar el tamaño de página y los metadatos del esquemático.
+The grid with the field became a place where everything fit, many things are inside of it and the grid keeps them safe, but they are unsafe at the same time.
 
----
+They wanted to share their work with many people and cultures, that's one of the most important goals. With each exhibition they want to do publications, so they have a bunch of different publications of each project. They have done around 7 projects in different places and each project is unique cause they make it depending on the place, the artists, the curators, etc.
 
-## PCB — Diseño de la placa
+### Simon
+Scanner, it is used to measure the world, it has a laser and a mirror that moves vertically and horizontally, which makes the laser move around the space, and when it crashes with something it goes back. This model has 8.000.000 points, each of these points means each time the laser "crash" with something, the time the laser takes to return is how it measures.
 
-### Configuración inicial
-- Métrica de grilla recomendada para empezar: **5 mm**.
-- Para dibujar el contorno de la placa, **siempre en la capa `Edge.Cuts`**, esto es **importante**, no dibujarlo en otra capa.
+It creates "clouds", he wasn't interested in measures but in clouds and trees. For us the trees are too slow, for the trees we are  too fast and for the mountain the tree is too fast. It's about measures and scales.
 
-### Contorno
-Para las esquinas redondeadas hay dos caminos:
-1. Herramienta de arco: primero se marca el centro, luego el inicio y el final del arco.
-2. Dibujar un rectángulo, seleccionarlo, presionar `E`, activar "rectángulo redondeado" y poner **5 mm** de radio.
+#### App!!!!
+* Polycam / kirk
 
-### Pistas (caminos de cobre)
-- Son los "cables" de la placa y pueden ir en cualquier lado.
-- El grosor depende de cuánta corriente necesita pasar:
-  - VCC → más grueso, **0.8 mm** o más.
-  - Señales → pueden ser más delgadas. **0.4mm**
+> *"Si no puedes con ellos, Confúndelos"* - Matias Serrano (2026)
 
-### Criterio de diseño
-- **Siempre positivo hacia arriba**, orientación de componentes.
+> *"Cada mentira que decimos es una deuda con la verdad"* - Valery Legásov
 
-### Vías
-- Permiten conectar ambos lados de la placa con la misma ruta.
-- Se dibuja la pista y se aprieta `V` para cambiar de lado, dejando una vía en ese punto.
+## OSC
 
-### GND en plano de cobre
-- Para el ground no conectamos pista a pista: seleccionamos ambas caras de la placa y hacemos que toda la placa sea GND como plano de cobre. Luego para que se rellene ocupamos `B` de Bold.
+Nuestro lienzo es todo el espacio que existe entre VCC y GND.
 
-### DRC (*Design Rule Check*)
-- El ícono con el checklist arriba a la derecha.
-- Corre siempre antes de mandar a fabricar para asegurarse de que no quedó nada mal conectado o con errores de diseño.
+### Chips
+* **4046**: Es un circuito integrado de la serie CMOS que funciona como un PLL (Bucle de Enganche de Fase, o Phase-Locked Loop)
+* **4093**: Cuádruplo Schmitt Trigger NAND CMOS
 
-### Agujeros de montaje
-- En el esquemático de KiCad, agregar el componente **MountingHole**.
-- Luego ubicarlo en la placa como cualquier otro componente.
+> **VCO:** Oscilador controlado por voltaje
 
-### Importar gráficos (DXF / SVG)
-- Ir a `Archivo → Importar → Gráficos`.
-- **Importante**: ponerlos en una capa de serigrafía (*Silkscreen*), no en cobre.
+* Divisor de voltaje: Potenciómetro
 
----
+## Secuanciador
+* **4040**: Es un circuito integrado que funciona como un contador binario asíncrono (o contador de rizado) de 12 etapas fabricado con tecnología CMOS. Su función principal es recibir una señal de pulsos (reloj) en su entrada y dividir su frecuencia de manera exacta en potencias de 2 (desde 2 hasta 4096)
 
-### Terminal block
-Pequeño dispositivo que permite sujetar cables atornillándolos. Hay que asegurarse de que tenga **5 mm de espaciado** entre pines.
+![chip cd4040](./imagenes/4040.jpg)
 
-* [KF301-2 en Mechatronic Store](https://www.mechatronicstore.cl/conector-terminal-2-pines-con-tornillo-kf301-2/)
+## Percusion
 
-![terminal-block](./imagenes/terminal-block.jpeg)
+Las percusiones convierten señales de cambio (gates) y de ahí se dejan oscilar y descargar, se construyen con filtros de tipo T.
 
----
-#### Mi Placa
+* Tener algo que nos genera un Gate y poner el filtro, el chip que hace esto es el 4040.
 
-![mi placa](./imagenes/pcb.png)
-![mi placa](./imagenes/pcb1.png)
-![mi placa](./imagenes/pcb2.png)
-![mi placa](./imagenes/pcb3.png)
+* **LM324**: Es un circuito integrado económico que contiene cuatro amplificadores operacionales independientes.
 
-## encargo-09a
-
-### esquemáticos y PCB en KiCad
-
-cada estudiante debe tomar 2 de las 4 secciones distintas del sintetizador realizado en el proyecto 1, y crear un proyecto en KiCad por cada una, que contenga tanto el esquemático y la PCB de cada sección.
-
-anotar cada paso en la bitácora, incluyendo mayores aprendizajes y dificultades encontradas, además de problemas y dudas que quieran que abordemos en la próxima clase.
-
-### Paso 01: Abrir nuestro esquemático desde el kicad.pro
-![mi placa](./imagenes/paso1.png)
-### Paso 02: Yo hice el esquemático del proyecto 1 en kicad así que ya lo tenía armado completo
-![mi placa](./imagenes/paso2.png)
-### Paso 03: había que asignar huellas a los componentes
-![mi placa](./imagenes/paso3.png)
-### Paso 04: Copie y pegue las huellas que usamos en la placa que hicismoe  clase y las que no estaban las busque en internet
-![mi placa](./imagenes/paso4.png)
-### Paso 05: Me meti al archivo.pcb y cargue los componentes, 0 errores, slay
-![mi placa](./imagenes/paso5.png)
-### Paso 06: Mis componentes ahí en el aire, les hice un contorno y comencé a ordenarlos
-![mi placa](./imagenes/paso6.png)
-### Paso 07: Ya irdenados y en vista 3D, me complica aún saber bien en dodne me conviene más poner cada uno, será un talento adquirido.
-![mi placa](./imagenes/paso7.png)
-### Paso 08: Ahora habia que poner los canales
-![mi placa](./imagenes/paso8.png)
-### Paso 09: todo listo, complicaciones en los canales, habia una isla, no super arreglarlo, pero pretty.
-![mi placa](./imagenes/paso9.png)
-### Paso 10: Es rosada y tiene los modelos 3D, slay
-![mi placa](./imagenes/paso10.png)
-
-### lectura de libro de Flusser, capítulo 1
-
-leer introducción y capítulo 1 del libro Hacia una filosofía de la fotografía, de Vilém Flusser, disponible en <https://monoskop.org/images/8/8d/Flusser_Vilem_Hacia_una_filosofia_de_la_fotografia.pdf>
-
-compartir apuntes y reflexiones críticas sobre el texto, prohibido usar inteligencia artificial, no sirve para este ejercicio.
-
-
+![chip cd4040](./imagenes/lm324.png)
