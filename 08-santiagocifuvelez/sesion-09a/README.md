@@ -61,13 +61,13 @@ Cuando un archivo ya está creado y guardado, se abre desde la extensión:
 ## 3. La pcb (nuestra placa real)
 
 **Primeramente, know your grids (grillas), vamos a usar 5mm para nuestras placas, ya que es un grosor perfecto.**
-![img2](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img2.png)
+![img2](./imagenes/img2.png)
 
  **Además, siempre se debe hacer los contornos de las placas, en la capa de edges.cuts:**
-![img3](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img3.png)
+![img3](./imagenes/img3.png)
 
 **Listo, ahora que ya hicimos el contorno de nuestra placa, sigue definir los caminos de conexiones (las pistas):**
-![img4](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img4.png)
+![img4](./imagenes/img4.png)
 
 En Kicad, puedes escoger el tamaño de las pistas para que fluya más o menos energía por ciertos caminos.  
 Antes de continuar, quiero hacer mención de que hay posibilidades muy específicas con las que podemos trabajar: Por ejemplo, la capacidad mínima de pista, es de 0.10mm / 0.10mm (4 / 4 mil). En kicad se puede hacer de menos, pero al momento de esta ser realizada en china, no la van a leer.
@@ -76,43 +76,43 @@ También existe un espaciado mínimo entre pistas, para que no se toquen las una
 (En cualquier caso, más de 0.3mm es lo mejor).
 
 **Para hacer las pistas, las encontramos aquí:**  
-![img5](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img5.png)
+![img5](./imagenes/img5.png)
 
 **Luego se nos despliega esto, y aquí podemos poner las anchuras de nuestras pistas. Ya luego de eso, nos van a aparecer como “pinceles”, con las anchuras que hicimos.**  
-![img6](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img6.png)
+![img6](./imagenes/img6.png)
 
 **Y primero, comenzamos a organizar los componentes en el contorno que creamos:**  
-![img7](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img7.png)
+![img7](./imagenes/img7.png)
 
 **Luego de haber organizado los componentes en la placa, podemos hacer nuestras pistas, en estas dos capas: `F.cu` (front). y `B.cu` (back)**  
-![img8](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img8.png)
+![img8](./imagenes/img8.png)
 
 **Luego le hundimos enrutar pista única (o podemos oprimir la letra x):**
-![img9](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img9.png)
+![img9](./imagenes/img9.png)
 
 **Luego, cuando le hundimos nos aparecen todos los lugares donde debería ir conectado ciertas pistas:**  
-![img10](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img10.png)
+![img10](./imagenes/img10.png)
 
 **Una vez ya conectados todos los positivos, vamos a ver una manera de como conectar los negativos:**  
-![img11](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img11.png)
+![img11](./imagenes/img11.png)
 
 **Vamos a esta herramienta:**  
-![img12](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img12.png)
+![img12](./imagenes/img12.png)
 
 **Hacemos click en cualquier parte de la pantalla y se nos va a desplegar este menú, y allí seleccionamos ambas caras de las placas: Front y Back, y luego en red, seleccionamos: GND:**  
-![img13](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img13.png)
+![img13](./imagenes/img13.png)
 
 **Luego le hundimos aceptar, y hacemos el contorno alrededor de la placa, y hay que ser muy cuidadoses en cerrar bien el contorno; y se vería algo así:**  
-![img14](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img14.png)
+![img14](./imagenes/img14.png)
 
 **Luego hundimos la letra `B`, se rellena todo:**  
-![img15](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img15.png)
+![img15](./imagenes/img15.png)
 
 **Aquí ya tenemos todos los GND conectados, ahora vamos a ver si hay algún error, o si algo no está conectado:**  
-![img16](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img16.png)
+![img16](./imagenes/img16.png)
 
 **Vamos allí, y luego le hundimos “ejecutar DRC”, para evaluar que todo está bien.**  
-![img17](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img17.png)
+![img17](./imagenes/img17.png)
 
 En este caso todo está bien. Period
 
@@ -120,12 +120,12 @@ Ahora, vamos a abrir unos huequitos para poder integrar nuestra PCB a la superfi
 
 **Para esto, vamos a nuestro archivo del esquema (SCH)  para a buscar `MountingHole`, que sería nuestro hoyito de montaje, y luego ese lo traemos a nuestro archivo de la PCB.  
 *(recordar asignar huellas, etc.):***  
-![img18](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img18.png)
+![img18](./imagenes/img18.png)
 
 **Listo:**  
-![img19](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img19.png)
+![img19](./imagenes/img19.png)
 
 **Y ya está.**  
-![img20](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img20.png)
+![img20](./imagenes/img20.png)
 
 Byee.
