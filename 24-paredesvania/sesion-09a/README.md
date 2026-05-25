@@ -92,6 +92,8 @@ Pequeño dispositivo que permite sujetar cables atornillándolos. Hay que asegur
 ![mi placa](./imagenes/pcb2.png)
 ![mi placa](./imagenes/pcb3.png)
 
+--- 
+
 ## encargo-09a
 
 ### esquemáticos y PCB en KiCad
@@ -121,11 +123,36 @@ anotar cada paso en la bitácora, incluyendo mayores aprendizajes y dificultades
 ### Paso 10: Es rosada y tiene los modelos 3D, slay
 ![mi placa](./imagenes/paso10.png)
 
+---
+
 ### lectura de libro de Flusser, capítulo 1
 
 leer introducción y capítulo 1 del libro Hacia una filosofía de la fotografía, de Vilém Flusser, disponible en <https://monoskop.org/images/8/8d/Flusser_Vilem_Hacia_una_filosofia_de_la_fotografia.pdf>
 
 compartir apuntes y reflexiones críticas sobre el texto, prohibido usar inteligencia artificial, no sirve para este ejercicio.
 
+## Apuntes de lectura
+
+Flusser parte de una hipótesis: la civilización humana ha tenido dos momentos de cambio radical, el primero fue la invención de la escritura lineal y el segundo es el que estamos viviendo ahora: la invención de las **imágenes técnicas** (fotografía, cine, video, etc.), parte de la cultura que la llama Tecnografía.
+
+Lo que me pareció interesante es que no pretende probar una tesis, por lo miso el dice que no cita fuentes de información, sino que busca abrir una discusión, el libro funciona más como preguntas que como respuestas.
+
+### Capítulo 1: La imagen
+
+Las imágenes son **superficies significativas**, así lo llama en la primera línea del cap. No son ventanas al mundo, sino abstracciones, toman algo de cuatro dimensiones y lo reducen a dos dimensiones. A esa capacidad de abstraer y volver a proyectar, Flusser la llama **imaginación**, que dice que las imágenes se manifiestan a través del observador.
+
+Esto quiere decir que el significado de una imagen no está fijo, cuando la miramos, nuestros ojos se mueven por la superficie en un proceso que él llama **registro** (*scanning*), ese recorriido es una mezcla entre lo que la imagen propone y lo que nosotros traemos como observadores. Por eso las imágenes son **connotativas**, no denotativas, que siempre están abiertas a interpretación. (tuve que investigar que era denotativo y connotativo).
+
+Eso me pareció súper interesante, he visto algunos videos en los que hacen eso con la gente, como escanear donde se va su vista al ver algo. Flusser dice que las imágenes tienen una lógica de **tiempo circular**, que la mirada puede volver una y otra vez sobre los mismos elementos, y cada vez que vuelve, los resignifica, eso es distinto al tiempo lineal de los textos, donde hay un antes y un después.
+
+A ese tiempo circular él lo llama **magia** <3, en las imágenes todo se relaciona con todi, no hay causa y efecto sino contexto y significado, por eso dice que las imágenes tienen significado mágico.
+
+Además Flusser plantea que las imágenes nacieron para mediar entre el hombre y el mundo, para hacer el mundo imaginable, pero en algún punto esa mediación se invirtió, o sea el hombre dejó de usar las imágenes para entender el mundo y empezó a **vivir en función de las imágenes**, onda ya no las descifra, sino que las proyecta directamente sobre la realidad, y a eso lo llama **idolatría**.
+
+Luego los textos nacieron para explicar las imágenes, pero las imágenes ilustran los textos para hacerlos imaginables, o ses se necesitan mutuamente, y a lo largo de la historia: los textos se volvieron más imaginativos y las imágenes se volvieron más conceptuales.
+
+Hasta que en el siglo XIX la textolatría alcanzó un grado crítico, los textos ya no eran imaginables para nadie y eso según Flusser, fue **el fin de la historia**, y justo ahí fue cuando se inventó la fotografía, para hacer los textos nuevamente imagineables y para colmarlos de magia (nuevamente).
+
+Me pregunto que pasa ahora, en donde la fotografía volvió a ser esta "proyección" de la realidad, sobretodo con las redes sociales, creo que es un circulo sin fin.
 
 

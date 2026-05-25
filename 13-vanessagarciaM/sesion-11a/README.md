@@ -75,6 +75,23 @@ Revisar Hackaday para nuestro proyecto.
 ![pizarra](./imagenes/pizarra.jpeg)
 ![pizarra](./imagenes/pizarra2.jpeg)
 
+___
+Mis comentarios y reflexiones sobre el libro *Hacia una filosofía de la fotografía*, de Vilém Flusser.
+
+Capítulo 4: El acto de fotografiar
+
+Relación con el acto de cazar. En el acto fotográfico, la cámara hace lo que el fotógrafo quiere que haga, y el fotógrafo hace aquello para lo que la cámara está programada. El fotógrafo es libre de capturar cualquier cosa, pero el objeto debe estar en armonía con el programa de la cámara. Va más allá de solo apretar un botón, ya que el fotógrafo debe elegir qué mostrar y qué quiere transmitir mediante la fotografía.
+
+Reflexión propia: La intención detrás de la fotografía y cómo esta puede variar según la persona. Si varios tomamos la misma fotografía, en el mismo momento y lugar, igualmente pueden transmitir cosas diferentes.
+
+
+Capítulo 5: La fotografía
+
+Habla sobre cómo las fotografías son omnipresentes y sobre la idea de creer que la fotografía es congruente con el mundo exterior, pero entonces aparece la pregunta: ¿y las fotografías en blanco y negro? También sobre cómo influye la fotografía en la relación entre la realidad y la memoria, ya que no solo registra la realidad, sino que también influye en cómo se ve y se recuerda. El fotógrafo informa mediante la fotografía. Las fotografías son conceptos transformados en imágenes.
+
+Reflexión propia: Relación con los recuerdos y cómo las fotografías son una parte esencial de ellos, ya que gracias a las fotografías se guardan memorias.
+
+
 
 
 

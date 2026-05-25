@@ -45,3 +45,25 @@ martes 12 de mayo
 ![modelo 3d frontal](imagenes/pcb2.png)
 
 ![modelo 3d trasero](imagenes/pcb3.png)
+
+## encargo-09a
+
+### esquemáticos y PCB en KiCad
+
+decidí hacer el clock 555 y el LM386, al principio me costó un poco pero ya al hacer el segundo ya sabía más o menos todo lo que tenia que hacer
+
+### clock 555
+
+![esquemático clock 555](imagenes/esquematico555.png)
+
+![placa pcb 555](imagenes/placa555.png)
+
+![modelo 3d](imagenes/modelo555.png)
+
+### LM386
+
+![esquemático 386](imagenes/esquematico386.png)
+
+![placa pcb 386](imagenes/placa386.png)
+
+![modelo 3d](imagenes/modelo386.png)

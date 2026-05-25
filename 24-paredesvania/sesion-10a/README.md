@@ -3,6 +3,8 @@
 Si queremos diseñar fuera del programa, tenemos que imaginar otras cosas.
 ¿Cuál es el límite?
 
+---
+
 ## Charla | For want or (not) measuring (Para querer o no medir)
 
 ### Jim Hobbs
@@ -42,12 +44,12 @@ Nuestro lienzo es todo el espacio que existe entre VCC y GND.
 
 * Divisor de voltaje: Potenciómetro
 
-## Secuanciador
+## Secuenciador
 * **4040**: Es un circuito integrado que funciona como un contador binario asíncrono (o contador de rizado) de 12 etapas fabricado con tecnología CMOS. Su función principal es recibir una señal de pulsos (reloj) en su entrada y dividir su frecuencia de manera exacta en potencias de 2 (desde 2 hasta 4096)
 
 ![chip cd4040](./imagenes/4040.jpg)
 
-## Percusion
+## Percusión
 
 Las percusiones convierten señales de cambio (gates) y de ahí se dejan oscilar y descargar, se construyen con filtros de tipo T.
 
@@ -56,3 +58,16 @@ Las percusiones convierten señales de cambio (gates) y de ahí se dejan oscilar
 * **LM324**: Es un circuito integrado económico que contiene cuatro amplificadores operacionales independientes.
 
 ![chip cd4040](./imagenes/lm324.png)
+
+---
+## Lectura, Cap 4 y 5
+
+El capítulo 4 habla sobre **el acto de fotografiar**, y Flusser lo describe como una cacería...... pero no en pastizales abiertos sino en un bosque denso de objetos, el fotógrafo no caza en el mundo exterior, caza dentro de las virtualidades del programa de su cámara, el mundo real es solo el pretexto.
+
+Me llamó la atención la idea de la **duda fenomenológica**, porque si soy, cuando el fotógrafo duda antes de sacar una foto (me acerco más?, espero?, cambio el ángulo?) no está dudando en un sentido científico ni existencial, la foto final es el resultado de una serie de micro decisiones como granos de arena acumulados y aún así ninguna de estas decisiones fue la "importante". (no se si estoy de acuerdo on eso, para mi éstas decisiones si son importantes, y mucho)
+
+También plantea que la fotografía es **anti ideológica** en el sentido de que no puede privilegiar un punto de vista por sobre otros de forma absoluta, siempre hay múltiples ángulos posibles y el fotógrafo tiene que elegir cuántos puntos de vista realizar, no cuál es el mejor, y eso lo hace fenomenológico, no ideológico.
+
+En el capítulo 5 Flusser analiza **la fotografía como objeto**, dice que las fotos en blanco y negro no existen en el mundo real, porque el blanco y el negro son situaciones ideales (la ausencia y presencia total de luz), entonces una foto en blanco y negro no está capturando la realidad, y que las fotos en color parecen más "reales" pero son igual de teóricas, solo que esconden mejor su origen.
+
+Dice que la fotografía no muestra el mundo, muestra conceptos del mundo, según Flusser, las "mejores" fotografías son aquellas donde el fotógrafo logró someter el programa de la cámara a sus propias intenciones, donde el humano ganó la pelea contra este aparato.

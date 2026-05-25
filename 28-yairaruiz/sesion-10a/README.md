@@ -1,11 +1,16 @@
 # sesion-10a
 
-### Flusser, cap. 2, 3
+### Flusser, cap. 4, 5
 
-En el capítulo 2 y 3, Vilém Flusser explica cómo las imágenes técnicas y los aparatos influyen en la forma en que entendemos el mundo. 
+En el capítulo 4 y 5, Vilém Flusser sigue hablando de la relación entre el fotógrafo y la cámara, pero ahora más enfocado en cómo funciona el acto de fotografiar y lo que realmente son las fotografías. 
 
-Las imágenes técnicas, como la fotografía, son imágenes creadas por aparatos tecnológicos. No son neutrales, porque vienen de procesos científicos y de programas. Aunque parecen una ventana a la realidad, en verdad son construcciones, porque no vemos todo lo que ocurre dentro del aparato, lo que Flusser llama la “caja negra”. Confiamos en ellas sin cuestionarlas mucho, como si mostraran el mundo como es. 
+Explica que sacar una foto no es solamente capturar algo que existe en la realidad, porque la cámara funciona con programas y posibilidades ya definidas.
+También dice que las fotografías parecen muy reales, pero en verdad pasan por procesos técnicos que hacen que no sean exactamente iguales a lo que vemos con nuestros ojos. Incluso el color o el blanco y negro son interpretaciones hechas por la cámara.
 
-En el capítulo 3, profundiza en la idea de los aparatos. Dice que no son solo herramientas, sino sistemas programados que permiten ciertas posibilidades y limitan otras. En este sentido, el fotógrafo juega con el aparato, explorando lo que la cámara le permite hacer. Lo llama “funcionario del aparato”, porque actúa dentro de un sistema ya programado.
+Me suelen surgir muchas dudas cuando leo este tipo de textos, porque a veces me distraigo tratando de entender cuál es realmente el punto al que quiere llegar el autor. Me cuesta entender por qué influye tanto el programa de la cámara si al final está capturando algo que existe en la vida real y que en la foto se ve casi idéntico.
 
-Me cuestiono por qué la fotografía no muestra la realidad tal como la vemos con nuestros ojos, si en teoría está capturando algo que sí existe en ese momento. Me pregunto por qué no sería lo mismo, si al sacar una foto se supone que estamos viendo lo mismo que está frente a la cámara. Entonces también me surge la duda de si al pasar por la cámara y por esta “caja negra” ya deja de ser lo mismo, aunque igual siga siendo algo de la vida real. No termino de entender si el cambio está en la imagen misma o en la forma en que el aparato procesa lo que tiene enfrente.
+También me hizo pensar en la idea del cyborg de Donna Haraway, porque muestra que la tecnología no está separada de nosotros, sino que influye en cómo vemos y entendemos el mundo. Al final siento que tanto Flusser como Haraway cuestionan esta idea, porque siempre estamos viendo la realidad a través de algo que la modifica. Este tema igual es algo que pienso mucho y que me preocupa, porque también sirve para pensar cuánto control tenemos realmente sobre la tecnología. Normalmente creemos que usamos la cámara como una herramienta, pero Flusser propone que el aparato también nos guía y limita sin que lo notemos, influye en cómo vemos, pensamos y actuamos. Y es exactamente lo que sucede hoy en día. 
+
++ Falté ese día a la clase por temas de salud, me perdí la charla pero intenté ponerme al día con los apuntes de mis compañeros.
+
+  

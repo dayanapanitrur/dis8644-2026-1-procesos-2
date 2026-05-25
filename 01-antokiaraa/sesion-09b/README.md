@@ -28,5 +28,10 @@ buscamos el símbolo en otra biblioteca que querramos usar, lo copiamos y lo peg
 
 temporales y de tipo switch, la diferencia de prender la luz y tocar el timbre
 
+- push button (pulsador): es temporal porque el circuito se cierra (deja pasar corriente) solo mientras lo mantenemos resionando, tiene un resorte interno que lo devuelve a su lugar al soltarlo.
+- switch (interruptor): al presionarlo el mecanismo interno se traba y el circuito se queda cerrado y hay que volver a accionarlo para abrir el circuito.
+
+![push button y switch](imagenes/botones.png)
+
 
 

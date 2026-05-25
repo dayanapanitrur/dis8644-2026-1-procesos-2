@@ -29,14 +29,21 @@ Se hizo un repaso de la clase anterior y contestar preguntas que se formaran res
 
 #### Hacia una filosifia de la fotografia- cap.2 " la imagen tecnica"
 
-+ es producida por un aparato. Los aparatos son el resultado de la aplicación de textos científicos; por ende, las imágenes técnicas son productos indirectos de la ciencia.
-+ imágenes técnicas engañan al observador porque aparentan grabarse automáticamente (como una huella digital). Esto genera una actitud acrítica en las personas, quienes las miran como si fueran ventanas directas al mundo y no códigos altamente abstractos que requieren ser descifrados.
+**“las imágenes técnicas no son símbolos que necesita descifrarse, sino indicios del mundo al que significan “**
 
-Observacion 
-+ Pantallas como verdades: las redes sociales (Instagram, TikTok) funcionan bajo la "ilusión de objetividad" . Los ciudadanos consumen estilos de vida, estándares de éxito y publicidad creyendo que ven la "realidad", cuando solo consumen conceptos programados para el consumo masivo.
++ Bello-verdades-Buena
+  
++ Los textos son la base de los productos (PRE-HISOTORICAS). lA imagen técnica: post-histórica, no necesita ser descifrada profundamente y es fácil de digerir para el espectador. Da la sensación de ser inmediata y automática, como si mostrara la realidad tal cual es.
+  
++ La nueva ventana al mundo: al ser percibida como “igual al mundo”, la imagen técnica no puede ser criticada, ya que al cuestionarla pareciera que se critica a la realidad misma. Por esto, el sistema elimina la duda y genera una actitud acrítica en el observador.
+No existe la objetividad que hacen creer, pero el sistema está hecho para que el espectador piense que posee libertad de interpretación, cuando en realidad todo está programado y dirigido a porposito ( algoritmo).
 
-+ la política a "Meme": La sociedad chilena ha pasado de debates conceptuales e históricos a reaccionar a estímulos visuales inmediatos (TIKTOK). La política se hace en videos cortos y cuñas de 15 segundos. La "masa amorfa" ya no se mueve por grandes textos programáticos, sino por la emoción de la imagen técnica del momento.
++ Obj: seducir al espectador sobre el mundo que se está mostrando. Las imágenes crean estilos de vida, estándares de éxito y visiones de mundo que parecen naturales, pero que están diseñadas para el consumo.(masa amorfa) 
 
-+ ir a un restaurante, un concierto o una marcha en Santiago solo para "subir la historia" demuestra la atracción centrípeta de aporvación. El valor de la vida y el consumo en el Chile actual ya no está en el hecho en sí, sino validado en la pantalla.
+**“la función de la imagen técnica es al de emancipar a sus receptores de la necesidad de pensar conceptualmente”**
+
+Esto puede verse hoy en redes sociales como Instagram o TikTok, donde las personas consumen imágenes creyendo que observan la “realidad”, cuando en verdad consumen conceptos programados. Incluso la política se transforma en estímulos rápidos, memes o videos cortos que apelan más a la emoción inmediata que al pensamiento crítico, se mezclan las emocioes a sentimientos momentaneos y al digerirse rapido, el cerebro no lo analiza y piensa ( imagen tecnica)
+
++ La sociedad ha pasado de debates conceptuales e históricos a reaccionar a estímulos visuales inmediatos (TIKTOK). La política se hace en videos cortos y cosas ia de 15 segundos. La "masa amorfa" ya no se mueve por grandes textos programáticos, sino por la emoción de la imagen técnica del momento.
 
 
