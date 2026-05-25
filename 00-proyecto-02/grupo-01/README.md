@@ -2,16 +2,17 @@
 
 ## Grupo
 
-Número de grupo: XX
+Número de grupo: 01
 
-Tema del grupo: OscilaXX
+Tema del grupo: Piezo
 
 Integrantes:
 
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
+- Benjamín Alonso Álvarez Pavez / [benjaminalvarez21](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/03-benjaminalvarez21>)
+- Anays Valentina Cornejo Candia / [Anaysval](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/09-Anaysval>)
+- Bruno Ferrari Meyer / [chknngttts](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/11-chknngttts>)
+- Lucas Ignacio Ortiz Aguirre / [ryukivol](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/21-ryukivol>)
+- Nicolás Elías Valdés Greve / [nicolasvaldesgreve](<https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/31-nicolasvaldesgreve>)
 
 ## Circuito 1
 
