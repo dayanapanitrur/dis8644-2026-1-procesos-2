@@ -38,7 +38,7 @@ Con esta opción podremos generar ondas cuadradas y ondas de diente de sierra.
 `Chip`: 40106
 `Amplificador`: LM 324
 
-![img1](./imagenes/img1.jpg9)
+![img1](./imagenes/img1.jpg)
 
 Propuesta oscilador 2: Con esta opción podremos generar ondas cuadradas y ondas de diente de sierra también, pero con este chip, todo suena más agresivo.
 
