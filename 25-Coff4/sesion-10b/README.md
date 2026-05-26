@@ -84,3 +84,10 @@ Aquí presento la primera versión que tiene pequeñas anotaciones para cambios 
 ![exito](./imagenes/pasos.png)
 
 Y esto ultimo son los pasos a seguir en cada modelo que vamos a ocupar...eso por el momento. <3
+
+---
+
+Capitulos six seven (ΦwΦ)
+
+
+
