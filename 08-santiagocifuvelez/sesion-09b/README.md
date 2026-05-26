@@ -37,6 +37,21 @@ Una vez ya tengamos hecho nuestro esquema, es momento de ponerle las huellas:
 
 Y ahora sí, a armar la placa:
 
+![img5](./imagenes/img5.png)
+
+Ahora a hacer los senderos:
+
+![img6](./imagenes/img6.png)
+
+Y vamos viendo cómo va quedando:
+
+![img7](./imagenes/img7.png)
+
+También estoy haciendo este “tejido” por el back de la tarjeta, para poder organizar de mejor manera los cables:
+
+![img8](./imagenes/img8.png)
+
+Y bueno, allí voy jijiji.
 
 **Capítulo 2: La imagen técnica.**  
 Este capítulo es una reflexión sobre la función de la imagen en nuestra vida cotidiana, y la relación que tenemos con esta. Veamos que más dice…
