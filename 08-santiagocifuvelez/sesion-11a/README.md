@@ -6,3 +6,5 @@ El día de hoy continuamos trabajamos en el proyecto de la solemne 2, y definimo
 Veamos:
 
 ![img1](./imagenes/img1.jpeg)
+
+![img2](./imagenes/img2.jpeg)
