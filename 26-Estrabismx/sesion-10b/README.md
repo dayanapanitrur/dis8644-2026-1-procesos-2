@@ -4,14 +4,33 @@
 
 1. ¿Como amplifica la corriente el transistor?
 
+2. ¿Porque las oscilaciones eléctricas generadas por un secuenciador no generan sonido? ¿Y las de un 555 Astable si?
 
-- Trabajo grupal
+## Clase
 
-- Pruebas 4040 + clock
+En base al avance visto en la clase anterior, pusimos manos en la masa para testear el secuenciador 4040.
 
-  - 4040 sin vco + amp = mal
- 
-- Organización de trabajo
+Para esto se trabajó de la siguiente manera:
+
+- Realizamos el reloj 555
+
+- Realizamos el circuito del 4040, en base al esquematico que lleve
+
+  ![4040](./imagenes/sc38.png)
+
+<br>
+
+- Funcionó!!!! wiiii
+
+- Probabamos cosas raras:
+
+  Desarrollo: Tratamos de realizar lo mismo que hicimos con el secuenciador del _proyecto 01/ la tostadora inastable_, pero sin realizar un VCO, es decir conectar todos los _step_ al amplificador LM386, esto no funciono porque: **Un secuenciador no da sonido**, esto igualmente me genera una duda.
+
+  Si el sonido de un parlante se genera por el desplazamiento mecánico del aire, el cual se genera al llegarle corriente al iman, moviendo el diafragma. Además de que un sónido como lo conocemos se logra mediante oscilaciones del diafragma de manera constante y muy rapidas (entendiendo que la corriente en vez de ser continua, es una onda oscilando) ¿Porque las oscilaciones eléctricas generadas por un secuenciador no generan sonido? ¿Y las de un 555 Astable si?
+
+[![Ejemplo circuito 4040](./imagenes/sc41.png)](https://youtube.com/shorts/x3a4tAwtNEM?feature=share)
+
+ >Video 
 
 ## Trabajo en casa ##
 
@@ -201,3 +220,12 @@ Se utiliza un transistor NPN (probar con un 2N2222), el cual se conecta desde la
 ```
 
 </details>
+
+<br>
+
+---
+
+<br>
+
+## Texto
+
