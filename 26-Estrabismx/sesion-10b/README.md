@@ -229,3 +229,104 @@ Se utiliza un transistor NPN (probar con un 2N2222), el cual se conecta desde la
 
 ## Texto
 
+Algo que me llamó la atención en estos capitulos, fue el enfoque que se le dio a la comunicación, entendiendo que finalmente una fotografía es un conjunto de datos (como se viene definiendo en capitulos anteriores). En este tema define 2 conceptos claves: 
+
+Dialogo: Se produce la información
+
+Discurso: Se almacena en nuestras memorias 
+
+Entendiendo estó, podemos empezar a profundizar sobre como los objetos comunican algo diferente escencialmente, debido a la 2da parte, el discurso. Ya que como este consta de un factor interpretativo y propio, en cada persona se analiza el el dialogo o mensaje de distantas maneras. Esto queda claro en la interpretación del libro, lo que yo recuerdo y entiendo se sustenta en un factor propio que se establece por mi contexto, por lo que centrarse en este punto del libro y escribirlo, termina generando un _metadiscurso_, donde la siguiente persona que lea esto va a almacenar en sus memorias diferentes perspectivas.
+
+Esto se viene trabajando desde casi el capitulo 1, cuando se nos establece que una fotografía no es un elemento objetivo, puesto que esta sujeto a interpretación igualmente.
+
+Aca me nace la pregunta, si logro retratar esto en una imagen ¿Como afecta la interpretación de lo que plasmo? 
+
+Esto se vuelve confuso la verdad
+
+## Back-up escrito proyecto 02
+
+**Por temas de confianza dejare un copy - paste para el escrito del proyecto**
+
+```markdown
+
+## Circuito 1 v01: Contador binario - CD4040
+
+### Descripción general/conceptual 1
+
+¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
+
+Este circuito se categoriza como un secuenciador, es decir que genera corrientes eléctricas en un patrón repetitivo y ordenado. Un ejemplo de esto es un semáforo, ya que se va a prender siempre en el mismo orden:
+
+_VERDE > AMARILLO > ROJO > VERDE > AMARILLO > ROJO > ..._
+
+![Semáforo](./imagenes/semaforov2.gif)
+
+<br>
+
+### Descripción de funcionamiento 1
+
+Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
+
+<br>
+
+Ya definimos que este sistema es un secuenciador, pero algo importante es como está configurada la duración de cada _activación_. Tal como en los semáforos no todos los colores duran lo mismo, en este circuito cada _señal_ tiene una duración única. ¿A que se refiere "duración unica"? En que cada _señal_ está asociada a un número, desde el 0 al 12 y mientras menor sea el número asociado, más rapido se va a _activar_. A continuación se puede observar una representación de este patrón
+
+![Secuencia](./imagenes/11.png)
+
+> De izquierda a derecha: Avance del tiempo
+>
+> De arriba a abajo: Q1, Q2, Q3, Q4 y Q5 = Canales
+
+<br>
+
+Esta es una secuencia binaria y de las cosas más notorias es que cada _canal_ tiene la misma duración prendido y apagado, es decir, el Q3 funciona con 4 _señales apagadas_ y 4 _señales prendidas_. Otro punto interesante es como esta duración tambien sigue un patrón
+
+| Canal / Step | Duración   |
+| ------------ | ---------- |
+| Q1           | 1 tiempo   |
+| Q2           | 2 tiempos  |
+| Q3           | 4 tiempos  |
+| Q4           | 8 tiempos  |
+| Q5           | 16 tiempos |
+
+<br>
+
+Ahora que entendemos como funciona su secuencia, vamos a profundizar más en como este circuito logra generar este proceso. Anteriormente se mencionó (y tmabien se ejemplificó en la imagen) que en cada _"tiempo"_ se van _activando_ las señales correspondientes, estos "_tiempos_" son corrientes eléctricas, es decir, que se necesita una señal intermitente y constante para activar el proceso de conteo. Esto es conocido como **reloj** o **clock**, entonces la velocidad con la que alterne este circuito afectará en como nuestro secuenciador realice su conteo.
+
+Para una mayor compresión se utilizará la siguiente analogía: Tenemos una especie de corazón (Reloj) que cada vez que late (emitir un pulso eléctrico) un semáforo prende sus luces (se activan las salidas del secuenciador)
+
+>Clickear imagen para reproducir video
+
+[![Ejemplo circuito 4040](./imagenes/sc41.png)](https://youtube.com/shorts/x3a4tAwtNEM?feature=share)
+
+
+### Esquemático 
+
+
+![esquemático circuito](./imagenes/esquematico-1.png)
+
+
+### PCB 1
+
+
+![pcb front](./imagenes/pcb-front-1.png)
+
+
+
+![pcb back](./imagenes/pcb-back-1.png)
+
+
+### Documentación audiovisual funcionamiento protoboard 1
+
+Clickear imagenes para reproducir video
+
+[![Ejemplo circuito 4040](./imagenes/sc42.png)](https://youtu.be/7QSAAqquWV8)
+
+[![Ejemplo circuito 4040](./imagenes/sc43.png)](https://youtu.be/X4rYO5dJ6EY)
+
+[![Ejemplo circuito 4040](./imagenes/sc44.png)](https://youtu.be/25J13NA67AE)
+
+<br>
+
+```
+
