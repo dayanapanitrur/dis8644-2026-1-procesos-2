@@ -6,7 +6,7 @@
 
 [dis8644-power-plantilla](./dis9644-power-plantilla/)
 
-## Descarga la librería de huellas acá
+## Descarga la biblioteca de huellas acá
 
 Puedes descargar las huellas de manera independiente y guardarlas en una carpeta llamada `dis8644.pretty`.
 

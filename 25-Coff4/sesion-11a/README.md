@@ -37,3 +37,75 @@ Para la siguiente clase deberia ver si poner las huellas
 (Spoiler: No va a pasar)
 
 Parece ser un dia bastante menos agitado de lo usual, pero igualmente me alegra cooperar :3
+
+---
+
+## Percutor time!
+
+![Proyecto](./imagenes/version2.png)
+
+Aquí se demuestra la segunda propuesta en su esplendor
+
+![555](./imagenes/555_agregado.png)
+
+Se ve más en detalle el 555 integrado junto al percutor que ya hicimos para la propuesta 1
+
+Se supone que esto (Percutor) funciona como un platillo de bateria, si lo golpeas, sonara. AHORA TIENE UNA LOGICA! El 555 funciona como la baqueta que marca el ritmo
+
+![CINEMA](./imagenes/cine.gif)
+
+*También se me olvido agregar el nombre al proyecto*
+
+![Womp](./imagenes/olvidado.png)
+
+---
+
+Nota: La fuente de poder ahora es diferente:
+
+![Jack](./imagenes/entrada_audio.jpg)
+
+
+## Armado loco:
+
+![Proceso de reloj y secuenciador](./imagenes/armado.jpg)
+
+![Proceso de reloj y secuenciador](./imagenes/armado_1.jpg)
+
+![Proceso de reloj y secuenciador](./imagenes/modify.jpg)
+
+![Proceso de reloj y secuenciador](./imagenes/modify_2.jpg)
+
+Y MIRA COMO SUENA EL BABY!:
+
+[![Ver video](https://img.youtube.com/vi/FxfNUCrtlaU/maxresdefault.jpg)](https://www.youtube.com/watch?v=FxfNUCrtlaU)
+
+
+## Capitulo semi final y final (8 y 9)
+
+
+Rodeados de redundancia, que poetico es el tema de las fotógrafias redundantes que solo siguen y siguen siendo más irrelevantes para el ojo humano. Estamos bombardeados de estas fotos por y para siempre.
+
+
+Conteo enumerado *Extracto del texto*
+
+- 1 El universo fotográfico es el producto de un juego de *combinaciones* éste ha sido programado y significa su programa.
+
+- 2 Segundo, el juego es automático; no obedece a una estrategia deliberada.
+
+- 3 Tercero, el universo fotográfico está compuesto de fotografías claras y distintas; cada una de ellas significa un punto específico del programa.
+
+- 4 Cuarto, cada fotografía es una superficie, una imagen, que sirve de modelo para la conducta de su receptor.
+
+*En resumen, el universo fotográfico es un medio para programar en la sociedad una conducta retroalimentadora en función de un juego de combinaciones*
+
+
+
+Pero significativamente, la fotógrafia puede ser tanto una condena, como una libertad para el ser humano. 
+
+Como todo en general. Somos libres de comunicarnos, pero también de manipular con nuestras palabras. Lo mismo con las fotos redundantes, rebuscadas, modificadas y alteradas. 
+
+Todo lleno de combinaciones hechas por y para nosotres.
+
+"La tarea de una filosofía de la fotografia consiste en analizar la posi- bilidad de la libertad en un mundo dominado por los aparatos; en discurrir cómo es posible dar significado a la vida humana en presen- cia de la accidental necesidad de la muerte. Necesitamos una filosofia así, porque representa la última forma de revolución que todavía es accesible para nosotros"
+
+LIBERTAD COMO METODO DE DEFENSA ANTE LA REVOLUCIÓN!

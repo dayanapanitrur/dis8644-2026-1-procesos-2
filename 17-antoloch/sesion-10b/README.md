@@ -1,78 +1,56 @@
 # sesion-10b
+Falte a esta clase, ya que estaba y estoy muy enferma 
+ese día tuve fiebre:(pipipi
 
-## Referencias
-- Tega Brain  
-- Everest Pipkin
+Busque información sobre osciladores y el chip 4046. 
+también vi info en https://hackaday.com/2015/08/07/logic-noise-4046-voltage-controlled-oscillator-part-one/
+## Oscilador 
+Un oscilador convierte corriente continua en alterna con una frecuencia y forma de onda específicas. Es como un metrónomo electrónico: sincroniza microprocesadores, genera tonos musicales o porta señales de radiofrecuencia.
 
-En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron muchas que yo también tenía:) a si que esta clase fue de mucha ayuda!!!!!!!!!
+Modificación del oscilador 
+-La idea es reemplazarlo o ajustarlo usando el chip 4046.
 
+## Chip 4046 (PLL – Phase Locked Loop)
 
-##  Conceptos de PCBs
-- Las PCBs se conectan de diferentes maneras a la electricidad.  
-- Se pueden unir circuitos en una misma placa, pero **Aaron recomendó hacerlo por separado**, ya que cada una actúa sola.  
+![4046](./imagenes/4046.png).
 
----
+-Es un circuito integrado CMOS que incluye un oscilador controlado por voltaje (VCO) y dos comparadores de fase.
 
-##  chips
-- **Dual In-Line Package (DIP)**  
-- **SOIC Package**  
-- El **DIP 7.62 mm (longpads)** es el más típico y el que usaremos.  
+-El VCO se controla con un voltaje en el pin 9 y entrega la salida en el pin 4.
 
----
+-El PLL compara la frecuencia de entrada con la del VCO interno y ajusta el voltaje para mantenerlas sincronizadas.
 
-## edición de símbolos en KiCad
-- Seleccionar chip → tecla **E** → *Edit Symbol*.  
-- Cambiar orden del chip, letra, nombre de pines.  
-- Mover con tecla **M**.  
-- Guardar con **Ctrl+S**.  
+-Puede generar ondas cuadradas sincronizadas con la señal externa, pero también permite multiplicar la frecuencia.
 
----
+-El consumo es bajo (micropower)
 
-## Botones 
-- **Temporales**: pulsadores, timbres, pushbuttons.  
-- **Tipos**:  
-  - NO (Normally Open / Abierto).  
-  - NC (Normally Closed / Conectado).
+## Aplicaciones típicas del 4046
 
- ![nonc](./imagenes/nonc.png)
- 
-- **Interruptores**:  
-  - SPST → 2 patitas  
-  - SPDT → 3 patitas  
-  - DPST → 4 patitas  
-  - DPDT → 6 patitas  
-- **Toggle**: palanca / switch.  
-- Para encontrarlos: buscar **SW_SPST** o **SW_SPDT**.  
-- Asignar huella: `[Button_Switch_THT:SW_PUSH_6mm]`.  
+-Generar osciladores estables que se ajustan automáticamente a una referencia.
 
+-Multiplicación de frecuencia (por ejemplo, tomar una señal y obtener otra más rápida).
 
-## Bibliotecas de símbolos
-- Crear carpeta propia en **Symbol Editor** dentro del proyecto `.pro`.  
-- Menú: **View → Panels → Library Tree**.  
-- Activar bibliotecas → **File → New Library** → guardar.  
-- Copiar componente → pegar en carpeta → editar → guardar.  
+-Demodulación de FM
 
+-Generación de tonos digitales.
 
-## Etiquetas
-- Conectar sin cableado en esquemático: tecla **L** (Label).  
-- Evita error de pin no conectado.  
-- Desde batería: usar etiqueta **PWG_FLAG**.  
+-Circuitos de reloj en sistemas digitales.
 
-- Cambiar de cara componentes: seleccionar → tecla **F**.  
+-El capacitor y la resistencia conectados al VCO definen el rango de frecuencia.
+
+-El pin 9 recibe el voltaje de control: variando este voltaje se cambia la frecuencia de salida. El pin 4 entrega la señal oscilada (onda cuadrada).
+
+Los comparadores de fase permiten sincronizar con una señal externa si se quiere “enganchar” el oscilador a otra fuente.
+
+Para usarlo como oscilador independiente, basta con configurar el VCO con los componentes externos adecuados.
+
+## Cap 6 y 7 
+Flusser explica que la fotografía no se queda en el momento de ser tomada: su verdadero poder aparece cuando se distribuye.
+Cuando pienso en cómo circulan mis fotos. Apenas las subo a Instagram o las comparto por alguna red social, entran en un sistema enorme de distribución. Flusser dice que la fotografía no es solo un acto individual, sino parte de una cultura tecnográfica donde las imágenes se producen y se difunden masivamente.
+
+Cuando publico una foto en redes, ya no es solo mía: se convierte en parte de un flujo colectivo que moldea tendencias, gustos y hasta la forma en que otros me perciben. La distribución hace que las fotos tengan un poder social, porque no solo muestran algo, también crean un universo compartido.
+
+Cuando después veo las reacciones a mis fotos, noto lo que Flusser explica: el sentido de una imagen no está solo en lo que yo quise mostrar, sino también en cómo la interpreta quien la recibe. Una misma foto puede ser vista como alegre por alguien y como nostálgica por otro o otra visión. La recepción depende del contexto cultural y emocional de cada persona . la fotografía no es un espejo, es un lenguaje abierto que se completa en la mirada del otro.
 
 
-## 3D
-- Seleccionar huella en `.pcb` → tecla **E** → menú **3D Models** → cargar modelos descargados.  
-- Exportar placa completa: **File → Export → STEP/STL/etc.**
-
-
-## Cap 2 y 3
-
-muestran que la fotografía no es un espejo del mundo, sino un lenguaje límitado por máquinas y sistemas industriales. En donde el fotógrafo es un quien explora las posibilidades que estan  en el programa (camara), no es totalmente libre que decide todo. La verdadera libertad estaría en subvertir el aparato, usar la cámara de una forma que no estaba previsto, romper las reglas.
-
-Flusser dice que las imaagenes técnicas no son lo mismo que las imágenes tradicionales. Las tradicionales son prehistóricas, porque existieron antes de la escritura, y son abstracciones directas del mundo. En cambio, las técnicas son poshistóricas, porque nacen de los textos científicos aplicados. Son abstracciones: primero del mundo, luego de las imágenes, luego de los textos, y finalmente de los aparatos que producen esas imágenes. Es como una cadena: una foto es una imagen de una imagen de una imagen.
-
-Creemos que la foto es objetiva, que muestra “la verdad”, pero en realidad es un símbolo, una construcción. La cámara es una caja negra: vemos lo que entra (la luz) y lo que sale (la foto), pero no entendemos ni controlamos la maquina, lo que pasa dentro.
-
-Bueno,  en las cámaras de los celulares, todo esto funciona tal cual lo describe Flusser: los modos automáticos ya traen inscrito un “saber” sobre cómo debe verse la realidad, este enfoca solo, tinene modos, etc. El fotógrafo juega dentro de esas reglas, pero no completamnete libreee.
  

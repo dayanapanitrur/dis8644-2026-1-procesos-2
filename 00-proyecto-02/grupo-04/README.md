@@ -12,6 +12,8 @@ Integrantes:
 - Paula Andrea	Fuentes Mena / paulafuentesm
 - Santiago Cifuentes Vélez / santiagocifuvelez
 - Yaira Alexandra	Ruiz Ossandón / yairaruiz
+- Catalina Anatonia Oyanedel Sanchez / catalinaoyanedel-01
+- Antonella Kiara Aguilar Plate / antokiaraa
 
 ## Circuito 1
 

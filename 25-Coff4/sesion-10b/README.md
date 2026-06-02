@@ -89,5 +89,51 @@ Y esto ultimo son los pasos a seguir en cada modelo que vamos a ocupar...eso por
 
 Capitulos six seven (ΦwΦ)
 
+Para nuestro capitulo 6 se da la idea que el valor de una fotografía no está en el papel donde está impresa, sino en la información que contiene (Aunque en la actualidad unos papeles si que le dan un valor añadido a las piezas) pero estas fotografías puedes copiarse hasta el infinito sin perder el contenido por lo que al final pierden el valor como objetos fisicos y ganan valor como "información"
+
+Flusser explica que los seres humanos luchan contra la pérdida de información (la entropía) creando cultura, es decir, produciendo y transmitiendo información. Dentro de ese proceso distingue dos etapas:
+
+- Diálogo: cuando se genera información nueva mediante la reflexión o el intercambio de ideas entre personas
+- Discurso: cuando esa información se distribuye a otras personas (pero sin esa parte del intercambio)
+
+Según el Señor Flusser "la fotografía participa principalmente en la segunda etapa: no genera diálogo por sí sola, sino que está diseñada para compartir  información de forma *masiva*"
+
+También señala que las fotografías no llegan directamente al público. Antes pasan por distintos canales de distribución, como periódicos, revistas, galerías, publicidad o redes de comunicación. Estos canales no son neutrales, sino que modifican el significado de la fotografía. (Como lo pueden ser las noticias amarillistas o las fake photos)
+
+Por ejemplo, una misma imagen del alunizaje puede tener significados completamente distintos dependiendo de dónde aparezca:
+
+- En una revista científica, puede representar un logro de la humanidad, valioso tecnológicamente hablando
+- En una campaña política, puede simbolizar el poder de un país. *Algo que pasó con la carrera espacial*
+- Y en las actualidades, como una fuente de teorias o conspiraciones locas 
+
+*La fotografía sigue siendo la misma, pero su interpretación cambia.*
+
+Ya con el que toma la foto: *El fotógrafo* hay diferentes disputas, ya que la imagen que toma con cierto propósito, puede usarse para otros
+
+Puedo decir que es bien injusto eso, pero que pasa todo el maldito tiempo...
+
+
+Del six, pasamos al seven (Es la ultima vez que hago este chiste, lo juro)
+
+Tantas...palabras y tan pocas neuronas para procesar
+
+EHEM!
+
+En este punto de la vida, cualquiera puede tomar fotografías con las famosas y  mencionadas *cámaras* y que cada dia son más "faciles" de usar (Depende mucho la persona y su conocimiento porque para muchos no es intuitivo)
+Pero saber sacar fotos no necesariamente te hace un fotógrafo experto ni saber interpretar o comprender cómo realmente funcionan. Y es verdad, yo me incluyo en el ejemplo de Flusser, soy una novata que utiliza lo que la cámara me da y nada más, en cambio un fotógrafo intenta expandir sus horizontes para crear cosas *nuevas* que reflejan mucho más, que un filtro de instagram en estos tiempos
+
+Por eso, muchas fotografías reflejan más el programa de la cámara que las intenciones de quien la utiliza
+
+Entre tanto texto, las imagenes han obtenido más importancia a la hora de atender la realidad
+
+tipo como: "Una imagen vale más que mil palabras"
+
+Por eso es más probable que la gente acepte más las imágenes sin analizarlas ni cuestionarlas, dejandonos sin pensamiento critico al largo plazo, dejandonos influir por lo que otros quieran darnos...que mundo retorcido en el que vivimos.
+
+
+*Me leí de más y terminé poniendo parte del cap 8 en el 7...que cosas Xd*
+
+
+
 
 

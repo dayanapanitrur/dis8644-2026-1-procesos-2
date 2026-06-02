@@ -1,135 +1,91 @@
-# sesion-10a
+## sesion 10a 
+hablamos sobre el cap 2 y 3
 
-**Clase online por el incendio al lado de la FAAD.**  
-La clase estuvo fome; definitivamente me motivo mucho más estando presencial.  
-Menos mal no estamos en pandemia, porque creo que moriría de aburrimiento con tantas sesiones online.
+fuimos a la charla “For Want of (Not) Measuring”
 
----
+-El proyecto comenzó en 2022.
 
-## KiCad 
+-La medición y cómo, a veces, decidimos no medir.
 
-- Antes del receso vimos KiCad, pero no tan a detalle y me costaba entender varias cosas.  
-- En esta sesión profundizamos más y aprendí varias cosas nuevas.  
-- Al principio me costaba mucho acordarme de los pasos, pero gracias al orden de **Misaa** pude organizar bien la secuencia en mi cabeza.  
-- Obviamente aprendo mucho más realizando las cosas, así que me ayudó mucho que la sesión estuviera **grabada**.  
-- En la clase puse atención, claro, pero después al verla grabada pude repetir y repetir hasta quedar sin dudas de los pasos.  
-  Tengo muy mala memoria :( así que la grabación fue clave para reforzar lo aprendido.
+-Cuestionar los sistemas de medición que aceptamos sin pensar en su significado.
 
----
+-Hace 300 años intentaron calcular el peso del mundo escalando una montaña en Escocia con péndulos y telescopios; lograron estimar un 20% del peso del mundo.
 
-## Encargo 10A
+-Reflexiona sobre sistemas aparentemente estables que, al observarlos de cerca, revelan su inestabilidad.
 
-  **Esquemáticos y PCB en KiCad**  
- Cada estudiante debe tomar **2 de las 4 secciones distintas** del sintetizador realizado en el Proyecto 1.  
- Crear un proyecto en KiCad por cada sección, que contenga tanto el **esquemático** como la **PCB**.  
- Anotar cada paso en la **bitácora**, incluyendo:  
-  - Mayores aprendizajes  
-  - Dificultades encontradas  
-  - Problemas y dudas que quieran que abordemos en la próxima clase  
+-El padre de Jim trabajaba en General Electric, probando ampolletas sobre una grilla en el suelo.
 
-###  Mi avance
-- Hice **dos esquemáticos**.  
-  En el primero me demoré un montón, pero no tuve muchos errores porque me lo tomé con calma.  
-  Como es algo nuevo todavía no me acostumbro al 100%, pero la práctica me está ayudando a mejorar.  
-  Aún no entiendo bien lo de **asignar huellas**: me confunde por qué algunas son tan específicas y cómo saber si estoy poniendo la correcta.  
+De ahí surge la idea de la cuadrícula de 16 mm:
 
-### Atajos y herramientas útiles en KiCad
-- **A** = herramienta agregar símbolo  
-- **ESC** = herramienta selección  
-- **M** = mover componentes  
-- **G** = mover componente con todo lo que tiene conectado  
-- **V** = asignar valor a componente  
-- **E** = editar/revisar hoja de vida del componente  
-- **F** = revisar huella asignada al componente  
-- **CMD + S / CTRL + S** = guardar  
- ![graciasmisaa](./imagenes/graciasmisaa.png).
+No es un espacio seguro: encierra una inestabilidad estructural.
 
-### Pasos para crear el proyecto en KiCad (grcaias misaa también)
-1. Dibujar esquemático (.kicad_sch)  
-2. Asignar huellas a símbolos  
-3. Abrir PCB New (para crear la PCB), intérprete del esquemático  
-4. Definir tamaño de las pistas  
-5. Repartir componentes físicamente  
-6. Rutear componentes  
-7. Ornamentar y exportar fabricación  
-\* Quizás tenga que crear o descargar mis propias huellas y símbolos
+El proyecto establece un diálogo con artistas locales en cada lugar donde se presenta.
 
-Esquemático 1
- ![clock555](./imagenes/clock555.png).
+Han realizado siete exposiciones, algunas con performances según el contexto.
 
- ![encargo10aclock](./imagenes/encargo10aclock.png).
- 
-  ![placa555](./imagenes/placa555.png).
+Cada exposición es una nueva versión, adaptada al lugar y acompañada de publicaciones y ediciones limitadas.
+
+Jim produjo vinilos con mica que generan sonido, como una canción.
+
+-Simon Presentó un escáner láser con un espejo que gira en horizontal y vertical.
+
+-El láser choca con el mundo y devuelve la señal al escáner → se generan modelos digitales.
+
+-Ejemplo: un edificio escaneado con 8 millones de puntos.
+
+-Cada punto = un evento del láser con el mundo → forman una nube de puntos.
+
+-La nube no tiene límites: la máquina busca puntos constantemente.
+
+-Más que medir, le interesa el concepto de nube.
+
+Me pareció super interesante cómo los artistas invitan a mirar más allá de los objetos y de los sistemas para los que fueron creados. Aunque a veces las explicaciones podían resultar un poco confusas, era impresionante ver el entusiasmo y el amor que tenían hacia sus proyectos. Esa pasión hacía que todo cobrara sentido y que uno se sintiera parte de la búsqueda: no solo medir el mundo, sino también imaginarlo, cuestionarlo y abrirlo a nuevas interpretaciones. 
+
+Clase 
+- **VCC**: límite superior de voltaje. Nunca se puede superar; todo ocurre entre **GND → VCC**.  
+- **Relación voltaje–frecuencia**:  
+  - Menor voltaje → frecuencia más lenta.  
+  - Mayor voltaje → frecuencia más rápida.  
+- **Cajas negras**: módulos que se encadenan uno tras otro, cada uno con una función específica.
 
 
-  ![esquema2](./imagenes/esquema2.png)
-  
-  ![placa2](./imagenes/placa2.png).
-  
-  ![placa23d](./imagenes/placa23d.png).
-   
-  ![placazoom](./imagenes/placazoom.png).
-   
+### Divisor de voltaje
+- Dos resistencias complementarias.  
+- Ejemplo: `Ra + Rb = 100k`.  
+- Entrada `Vi` → salida modulada a otro voltaje.
 
+### VCO (Voltage Controlled Oscillator)
+- Convierte voltaje de control en frecuencia.  
+- Ejemplo: **CD4046** (PLL con VCO integrado).  
+- Caja negra: voltaje bajo → frecuencia lenta; voltaje alto → frecuencia rápida.
 
+### CD4093
+- Oscilador con resistencias (LDR, potenciómetro, fija
+- Genera frecuencia variable según resistencia/voltaje.
 
----
+### CD4022 y CD4017
+- Ambos son contadores Johnson.  
+- **4017**: 10 salidas secuenciales (decodificador decimal).  
+- **4022**: 8 salidas secuenciales (octal).  
+- Diferencia principal: número de pasos antes de reiniciar.
 
-## Mayores aprendizajes
+- **TL074**: cuádruple op-amp JFET, bajo ruido, ideal para audio.  
+- **LM741**: clásico op-amp simple, limitado en ancho de banda.  
+- **LM358**: doble op-amp, funciona con alimentación simple (0–VCC).  
+- **LM324**: cuádruple op-amp, también apto para alimentación simple.
 
-- Aprendí lo básico de **KiCad**, que antes veía como algo de otro planeta.  
-- Al principio me parecía **súper difícil**, pensaba que me iba a costar mucho, mucho.  
-- Pero con práctica y paciencia fui entendiendo cómo funciona y cada vez se me hace más familiar.  
+La pizarra mounstrosa de misaa:
 
----
+![misaaapuntes](./imagenes/misaaapuntes.png). 
 
-## Personals antoloch yo misma 
+## Cap 4 y 5
 
- Durante este semestre me he sentido **muy orgullosa de mí misma**. Normalmente no soy de esas personas que se tiran para adelante, siempre había algún motivo que me frenaba. Pero ahora he seguido aprendiendo, he seguido mejorando, y estoy orgullosa del cambio de visión que he tenido, incluso muestro mis trabajos a todo el mundo, no me escondo. He conversado con distintas personas que también saben de electricidad, y gracias a esas conversaciones he aprendido muchísimo más. Lo más bonito es que incluso personas cercanas a mí, que no sabía que tenían conocimientos de electricidad, me han sorprendido y enseñado cosas nuevas.  
+Aquí Flusser compara el acto de fotografiar con el acto de cazar. En la caza, el cazador persigue y captura a su presa. En la fotografía, el fotógrafo “captura” imágenes. Pero la cámara hace lo que el fotógrafo quiere que haga, y al mismo tiempo el fotógrafo hace lo que la cámara está programada para permitir. Dependencia 
+ Se vuelve hablar de  que el fotógrafo tiene una libertad que está condicionada: el objeto debe estar en armonía con el programa de la cámara. Por ejemplo, el modo retrato en el celular, se puede elegir a quién fotografiar, pero el aparato (el celular) ya decidió cómo debe verse un retrato (qué desenfocar, cómo iluminar). Entonces tu libertad es relativa: eliges el momento y el encuadre, pero dentro de las reglas que tiene el celu o el aparto.
+Que sentido darle a la foto, hartas personas pueden fotografiar el mismo lugar, pero cada una puede transmitir algo distinto.
 
-lectura de libro de Flusser, capítulo 1
-
-##  Dos vistas
-- El registro: la imagen misma.  
-- La vista del observador: depende de quién la mira.  
-- La imagen no tiene un significado único, cada persona la interpreta de diferentes maneras.  
-- Genera distintas emociones, lecturas e interpretaciones.  
-- Son connotativas: una imagen puede transmitir tristeza, nostalgia, felicidad, etc., aunque no sea explícito.  
-- Las imágenes tienen un significado mágico: producen emociones rápidas, simbólicas, y muchas veces reaccionamos antes de analizarlas.  
-- La imagen tiene mucho poder.  
-
----
-
-## Idolatría
-- Ocurre cuando olvidamos que la imagen es una representación.  
-- Entonces las personas empiezan a creer que la imagen es la realidad.  
-- Ejemplo de la actualidad: las redes sociales y la publicidad.  
-  -  yo siempr me comparaba (cuando era mas petite),  físicamente con mujeres de redes sociales que quizás ni siquiera eran reales  y esten editadas, filtradas, etc...  
-  - a muchas mujeres les pasa, en las publicidades y en redes sociales en general.  
-- Por eso tenemos que tener la visión crítica de que no todo lo que vemos es realmente como se ve.  
-
----
-
-## conciencia histórica y conciencia mágica
-- Flusser habla de dos maneras:  
-  - **Conciencia mágica**: relacionada con las imágenes.  
-  - **Conciencia histórica**: relacionada con el texto y la escritura.  
-- Existe una tensión entre pensar críticamente o dejarse llevar por imágenes y símbolos.  
-
-
-##  Textolatría y   Idolatría
-- **Idolatría**: adornar imágenes y creer ciegamente en ellas.  
-- **Textolatría**: creer que los textos y conceptos explican absolutamente todo.  
-- tanto las imágenes como los textos pueden dominar nuestra forma de pensar.  
-
-
-##  Imágenes y texto
-- **Imagen**: inmediata, emocional, abierta a interpretación.  
-- **Texto**: lineal, racional, explicativo.  
-- Son distintas formas de ver y entender el mundo.  
-
-
-- Bueno, el capítulo me hizo pensar mucho sobre la realidad en la que vivimos.  
-- Vivimos llenos de imágenes que consumimos sin analizarlas realmente.  
-- Es importante tener conciencia crítica y no dejarnos dominar ni por las imágenes ni por los textos.  
+FLusser explica que la fotografía es un lenguaje que transforma hechos en escenas y recuerdos, y que nunca es un espejo fiel de la realidad.
+Una foto en blanco y negro lo demuestra: la realidad no es en blanco y negro, pero la foto igual se percibe como “real”. Eso revela que la fotografía no refleja, sino que construye. No solo guarda un momento, también moldea la memoria. Muchas veces recordamos más lo que está en la foto que lo que realmente pasó. En ese sentido, la fotografía convierte conceptos en imágenes y organiza nuestra relación con el pasado. 
+Cuando saco fotos y despues al tiempo veo mi galería,  mi memoria se organiza en torno a esas imágenes. 
+La fotografía no solo guarda momentos, también me dice cómo debo recordarlos.
 

@@ -2,7 +2,18 @@
 
 ### Flusser, cap. 6, 7
 
-escribir apuntes
+**Capítulo 6:**  En este capítulo se habla de que hay cuatro métodos de discursos, refiriéndose a discursos como la fase en que se distribuye la información producida por un diálogo y específicamente en el cuarto método,  el emisor envía su información al espacio vacío, como en la comunicación por radio, produciendo una “masificación”.
+
++ La distribución de fotografías aplica a este método de discurso.
+
++ A pesar de que las fotografías se pueden reproducir de mano en mano se han creado aparatos innumerables para distribución fotografía, que poseen un programa, “el cual programa a la sociedad”.
+
+Acá también se habla de los canales de información donde se reproduce la fotografía y dependiendo del canal de información, la fotografía tiene un diferente significado, así como puede pasar de un significado artístico, comercial, científico, etc. El trabajo del fotógrafo también depende del canal, es decir, al tomar la fotografía el fotógrafo está pensando en un canal específico de distribución y esto influye en cómo toma la fotografía.  
+
+**Capítulo 7:** Primero empieza comparando al fotógrafo con un jugador de ajedrez, por su profundo interés en descubrir formas novedosas  y producir situaciones nuevas e informativas. También ,menciona que la función del texto está subordinada a la función de la imagen, el texto no explica la fotografía, la sustenta porque preferimos apoyarnos en ella y nos libera de un pensamiento conceptual y hace innecesario el cuestionarnos la búsqueda de causa y efecto. 
+
++ Las fotografías constituyen un “círculo mágico” y Flusser nos está incitando a que este círculo es lo que debemos traspasar. 
+
 
 ## Apuntes en clase: 
 

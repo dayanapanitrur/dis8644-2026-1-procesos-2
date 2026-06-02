@@ -17,6 +17,10 @@ Clase del 29 de mayo
 
 ![circuito](./imagenes/circuito-cd4015.png)
 
+![circuito](./imagenes/registro01.jpeg)
+
+![circuito](./imagenes/registro02.jpeg)
+
 Nuestro 1er intento
 
 ![circuito](./imagenes/primer-intento-pt1.jpeg)
@@ -44,3 +48,13 @@ Por hacer:
 - 4093 armado / daya
 - 386 armado / Isi
 - actualizar documentacion / Angel
+
+## **ENCARGO**
+  Ono, Yoko
+  
+Cap 1: Me quedé súper enganchada con esta "Pieza de Escondite" porque me senti identificada, me hizo pensa en como a veces el mundo cansa, no solo por la rutina, sino por tener que aguantar los problemas, las quejas y las penas de los demás, al punto de que una se termina descuidando a sí misma. Al leer lo de "esconderse hasta que todos se olviden de uno", sentí que estaba bien querer desaparecer un rato. Para mí, desear ese aislamiento no es ser cobarde ni salir arrancando, sino que es una forma de buscar un pequeño respiro de la sociedad. Es la necesidad de tener un espacio tranquilo donde nadie me pida nada, donde no tenga que andar siendo fuerte por el resto y donde pueda sanar mis propias trancas en paz. Estas líneas me hicieron sentir que es totalmente normal querer apagar el mundo por un momento, alejarse de todo el ruido y simplemente estar a solas conmigo misma para recuperar la tranquilidad.
+Cuando lei esta parte me imagine altiro estando en un campo rodeada de animales arboles, tuve ese sentimiento de tranquilidad.
+
+![libro](./imagenes/pieza-de-escondite.png)
+
+Cap 2:

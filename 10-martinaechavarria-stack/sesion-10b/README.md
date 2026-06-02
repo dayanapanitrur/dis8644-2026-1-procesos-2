@@ -43,3 +43,13 @@ Este chip sería el Schmitt trigger.
 [Logic Noise: Filters And Drums](https://hackaday.com/2015/03/25/logic-noise-filters-and-drums/)
 
 ![Esquemático circuito sin modificaciones](./imagenes/image.png)
+
+### Encargo cap 6 y 7
+
+En el capítulo 6 el autor nos explica que el significado de una fotografía no es solo quién la toma, sino que lo relevante es cómo esta es distribuida. Las fotografías son compartidas o difundidas por medios de comunicación, y el verdadero poder está en controlar estos sistemas.
+
+Luego, en el capítulo 7, Flusser hace un análisis de cómo es que el público recibe e interpreta las fotografías. Su argumento es que no cualquiera que pueda tomar fotografías sepa interpretarlas o que comprendan lo que es el lenguaje fotográfico.
+
+También explica cómo es que las fotografías dan una falsa sensación de participación, lo cual no es así, ya que en la mayoría de los casos el fotógrafo está en 3ra persona.
+
+Reflexión personal: Lo de falsa sensación de participación me dejó pensando porque es verdad y no había escuchado de alguien que lo haya discutido antes, siempre me quedaba esa sensación escondida en mi cabeza.
