@@ -95,21 +95,41 @@ Clickear imagenes para reproducir video
 
 ## Circuito 2
 
-Título módulo 2
+Circuito 2 v01:  registro de desplazamiento estático - CD4015
 
 ### Descripción general/conceptual 2
 
 ¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
 
+Este circuito también se categoriza como un secuenciador, es decir, que genera corrientes eléctricas en un patrón repetitivo y ordenado. Podemos tomar el mismo ejemplo del semáforo mencionado en el circuito anterior, donde este funciona encendiendo un LED detrás del otro sucesivamente hasta que se repite el ciclo.
+
+![Ejemplo circuito 4015](./imagenes/registro01.jpeg)
+
 ### Descripción de funcionamiento 2
 
 Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
 
+¿Qué inputs recibe?
+Recibe una señal de reloj (clock), que son pulsos eléctricos que le indican cuándo debe avanzar al siguiente paso de la secuencia puede venir de un chip NE555.
+
+¿Qué outputs entrega?
+Entrega señales eléctricas en sus distintas salidas (Q1, Q2, Q3, ..., Q8), activando una salida tras otra en orden.
+
+¿Cómo administra los flujos de inputs a outputs internamente?
+Cada vez que llega un pulso del reloj "del chip 555", el CD4015 mueve la información al siguiente paso.
+
+¿Qué componente es el corazón o cerebro?
+El componente principal es el chip CD4015, ya que es el encargado de guardar y mover la información entre sus salidas siguiendo el ritmo del reloj.
+
+¿Qué truco descubrimos en el camino?
+Se cambio la resistencia del 555 de 1k a 15k y logramos hacer el circuito mas estable.
+
+¿Qué se podría conectar a este módulo en el futuro?
+Se podrían conectar LEDs, sintetizadores, relés, motores o cualquier circuito que necesite activarse siguiendo una secuencia automática.
+
 ### Esquemático 2
 
-```markdown
 ![esquemático circuito](./imagenes/esquematico-2.png)
-```
 
 ### PCB 2
 
