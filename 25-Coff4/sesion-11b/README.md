@@ -65,3 +65,7 @@ Aun con el inconveniente logramos tener más documentacion en video, con sonidos
 [![Ver video](https://img.youtube.com/vi/N4V_wuEXsTs/maxresdefault.jpg)](https://www.youtube.com/watch?v=N4V_wuEXsTs)
 
 [![Ver video](https://img.youtube.com/vi/9wYy17Iu4Qk/maxresdefault.jpg)](https://www.youtube.com/watch?v=9wYy17Iu4Qk)
+
+---
+
+Se agregó la versión 3 de la opción 1 con la nueva fuente de poder! 
