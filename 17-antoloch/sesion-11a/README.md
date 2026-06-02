@@ -35,4 +35,10 @@
   - Orientado a osciladores controlados por voltaje y secuenciadores
 - **Opción 2**: CD4046 + CD40106
   - Orientado a osciladores simples con Schmitt Trigger y VCO
+  - Hicimos solo los esquematicos, ya que nos faltaban materiales para hacerlo en las protos
+
+ ![opcion1](./imagenes/opcion1.jpeg)
+ ![opcion2](./imagenes/opcion2.jpeg)
+
+    
 
