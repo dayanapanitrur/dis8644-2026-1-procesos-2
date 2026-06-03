@@ -20,6 +20,7 @@ https://historia.nationalgeographic.com.es/a/distintos-tipos-amor-segun-filosofi
 https://www.lanacion.com.ar/lifestyle/aristoteles-el-amor-esta-compuesto-por-un-alma-habitando-dos-cuerpos-nid09042026/
 
 —---
+
 también tuvimos que limpiar la sala ya que no estaba en sus optimas condiciones 
 
 
