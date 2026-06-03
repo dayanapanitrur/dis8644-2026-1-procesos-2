@@ -19,9 +19,43 @@ Escribir esto me hizo pensar el porqué lo hago, porque escribiría algo que qui
 https://historia.nationalgeographic.com.es/a/distintos-tipos-amor-segun-filosofia-griega_20870
 https://www.lanacion.com.ar/lifestyle/aristoteles-el-amor-esta-compuesto-por-un-alma-habitando-dos-cuerpos-nid09042026/
 
+—---
+también tuvimos que limpiar la sala ya que no estaba en sus optimas condiciones 
+
+
 ### clase
 
 - Misaa
+
+Hoy hablamos sobre el capítulo 4 y 5 de Flusser sobre la fotografía 
+
+
+Capítulo 4 → objetos culturales
+
+→ Todo lo podemos analizar a partir de un contexto.
+
+→ Estoy en el mundo → conociéndo → afectándo.
+
+→ El fracaso es el estar dentro de lo que hay y no hay.
+
+→ Estamos pelando una cebolla sin fin.
+
+→ No pensarlo a la IA.
+
+1/ blanco/verdadero y 0/negro/falso
+
+Bien luminoso, negro malo.
+
+→ Lógica aristotélica A = A
+
+→ No contradicción: A y Ā a la vez.
+
+→ Tercio excluido → Esto o no esto.
+
+→ Positivos indeterminados.
+
+Abstracción – detalle
+
 
 ### imagenes de proceso
 
