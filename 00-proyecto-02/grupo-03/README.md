@@ -10,9 +10,9 @@ Integrantes:
 
 - Vanessa García / vanessagarciaM
 - Antonia Loch / antoloch
-- Narely Riquelme / Narelyriquelme
 - Carla Núñez / ccarlabelenn
 - Ariel Orozco / arielorozco024
+- Narely Riquelme / Narelyriquelme
 
 ## Circuito 1
 
