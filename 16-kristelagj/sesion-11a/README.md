@@ -12,6 +12,14 @@ Yo lo que más recuerdo es no querer haber participado en We are the world porqu
 
 - Misaa
 
-### imagenes de proceso
+En esta clase hablamos sobre los estándares que tendremos como curso.
+1. mínima cantidad de energía
+2. mismo sacado
+3. mismo conector
+4. todos sepan de rango
+
+La placa debe ser máximo de 10x10 
 
 ### post-clase
+
+
