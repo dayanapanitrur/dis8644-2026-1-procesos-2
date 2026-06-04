@@ -104,8 +104,6 @@ Este módulo, al igual que el anterior, permite que uno pueda interactuar con el
 
 ### Descripción de funcionamiento 2
 
-> Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
-
 El circuito se conforma por 4 partes:
 
 + Piezoeléctrico
@@ -122,9 +120,8 @@ En cuanto a los reguladores de voltaje, ya que nuestro chip LM324 ya cuenta con 
 
 ### Esquemático 2
 
-```markdown
-![esquemático circuito](./imagenes/esquematico-2.png)
-```
+
+![esquemático circuito](./imagenes/esquematico-2.jpg)
 
 ### PCB 2
 
