@@ -20,29 +20,43 @@ Título módulo 1
 
 ### Descripción general/conceptual 1
 
-> ¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
-
-Este módulo te permite interactuar con el sintetizador mediante vibraciones en el piezo, tales como golpes en la misma superficie en la que se encuentra el componente, hablando directo en el piezo con una voz alta o utilizándolo en nuestro cuerpo y causar vibraciones con nuestra garganta. Estas vibraciones serás captadas por el piezo, lo cual lo tomará como señal de avanzar +++ 
+Este módulo te permite interactuar con el sintetizador mediante vibraciones en el piezo, tales como golpes en la misma superficie en la que se encuentra el componente o utilizándolo en nuestro cuerpo y causar vibraciones con nuestra garganta. Estas vibraciones serás captadas por el piezo, lo cual lo tomará como señal para avanzar en el secuenciador.
 
 ### Descripción de funcionamiento 1
 
-> Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
+El circuito se conforma de 7 partes;
+  - Piezoelectrico
+  - Pre-Amp (TL072)
+  - Inversor de señal (2N2222)
+  - Regulador de voltaje (L7805CV)
+  - Filtro Low-pass
+  - Clock (NE555P)
+  - Sequenciador (CD4017)
 
-### Esquemático 1
+Como estandar en el trabajo todos tenemos que alimentar nuestro circuito con 5V. Para esto usamos el L7805CV
 
-```markdown
+El piezo tiene 3 estados al recibir señal. ( imagen explicativa )
+
+Para que el Pre-Amp pueda recibir la señal correctamente se necesita crear un voltaje medio entre VCC y GND. Para esto se usan 2 Resistencias del mismo valor, que dividen el voltaje a la mitad **``5V ---> 2.5V``**, esto permite que capte la señal completa y funcione correctamente. El Pre-Amp en nuestro caso también funciona para aumentar la sensibilidad del piezo, normalmente este solo detecta las señales directas al disco cerámico del piezo, pero con el Pre-Amp logramos que detecte señales a varios centímetros de este. 
+
+Para afinar la señal que recibe el inversor, colocamos un filtro low-pass, esto permite que solo corriente bajo los 500hz *aprox.* avancen en el circuito. Esta señal entra al transistor (2N2222) que invierte la señal que recibe, puesto que el Clock (NE555P) busca recibir señales negativas en su pin 2 (Trigger) para funcionar. El Clock en modo monoestable se conecta con el pin 14 del secuenciador (CD4017) para que señale cuando se avanza en los steps. 
+
+### Descubrimientos
+
+- Modificando los valores de las resistencias, se logra amplificar la sensibilidad del piezo (gracias misaaaaaa).
+- Tener protoboard con los orificios **no** suelto es vital para que el circuito sea estable y se pueda mover.
+- Que ciertos amplificadores tienen usos especificos, como el LM386 que es optimo para parlantes, pero no piezos.
+- Se pueden sustituir componentes con valores diferentes **``2.2k Ω ---> 47 Ω``**
+
+### Esquemático 
+
 ![esquemático circuito](./imagenes/esquematico-1.png)
-```
 
 ### PCB 1
 
-```markdown
 ![pcb front](./imagenes/pcb-front-1.png)
-```
 
-```markdown
 ![pcb back](./imagenes/pcb-back-1.png)
-```
 
 ### Documentación audiovisual funcionamiento protoboard 1
 
@@ -62,6 +76,7 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 | Potenciómetro B10K | 1 | $495 | <https://altronics.cl/potenciometro-lineal-10k-b10k> |
 | Potenciómetro B500K | 1 | $495 | <https://altronics.cl/potenciometro-lineal-500k-b500k?search=b500k> |
 | LED 3mm | 5 | $100 | <https://www.mechatronicstore.cl/led-3mm-5mm/> |
+| Resistencia 47 Ω | 1 | $90 | <https://www.electroardu.cl/resistencias-1k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt> |
 | Resistencia 100 Ω | 1 | $90 | <https://www.electroardu.cl/resistencias-1k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt> |
 | Resistencia 220 Ω | 1 | $90 | <https://www.electroardu.cl/resistencias-1k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt> |
 | Resistencia 1 KΩ | 8 | $90 | <https://www.electroardu.cl/resistencias-1k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt> |
@@ -131,9 +146,11 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 | Condensador polarizado 10 µF | 2 | $100 | <https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/>|
 | Condensador polarizado 100 µF | 2 | $100 | <https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/> | 
 | Cables dupont 40 uni. | 1 | $2.990 | <https://mcielectronics.cl/shop/product/cable-dupont-macho-macho-20cm-pack-40-unidades-2/> |
+| Cables caimán | 2 | $1.990 | <https://www.mechatronicstore.cl/cable-conector-cocodrilo-o-caiman-5-unidades/> |
 | Batería 9V recargable | 1 | $7.990 | <https://www.sodimac.cl/sodimac-cl/articulo/110251085/bateria-recargable-9v/110251089> |
 | Conector batería | 1 | $1.990 | <https://mcielectronics.cl/shop/product/conector-para-baterias-de-9v-9800/?srsltid=AfmBOorf4iqHmZZbBCSLCPoI-UFTBMuBMtXEwLw-ia48KteW5jir8sIx> |
 | Piezo | 1 | $990 | <https://www.mechatronicstore.cl/sensor-piezoelectrico-27mm-con-cable/> |
+| Interruptor Switch | 1 | $570 | <https://www.katode.cl/switches/1339-interruptor-switch-2-pines-on-off-corto.html?srsltid=AfmBOorJlIeUySzAORFwXSattHKE4BKH2LmhhXZS_8fZ4MW-G6kwnxqA> |
 
 ## Otros circuitos
 
@@ -143,12 +160,21 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 
 ### ¿Cómo ayudé a otro grupo?
 
-Ayudamos al grupo 03 (osciladores 1) prestandoles dos potenciómetros b100k
+Ayudamos al grupo 03 (osciladores 1) prestandoles dos potenciómetros B100K y 
 
 ### ¿Cómo me ayudó otro grupo?
 
-lorem ipsum
+Santiago Cifuentes del grupo 04 (osciladores 2) nos ayudo con la compra de componentes y apoyo emocional de manera constante tanto dentro como fuera de clases.
 
 ## Bibliografía
 
-+ <https://www.diyaudio.com/community/threads/tl072-as-mike-input-preamp.317907/>
++ Colectivo 22bits. (2020, 8 1). Hybrida. GitHub. <https://github.com/22bits/Matrinicas/blob/master/Hybrida/HYBRIDA_Esquematico.pdf>
+
++ DigiKey. (n.d.). Voltage Divider Conversion Calculator. DigiKey. <https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-voltage-divider>
+
++ jevron1984. (2018, January 8). Need some help building a TL072 preamp circuit. Electronics Stack Exchange. <https://electronics.stackexchange.com/questions/348898/need-some-help-building-a-tl072-preamp-circuit>
+
++ misaaaaaa. (n.d.). transistoresDeclaman. GitHub. Retrieved 3 16, 2025, from <https://github.com/misaaaaaa/transistoresDeclaman/blob/main/sch.pdf>
+
++ Pimpom. (2018, 1 25). TL072 as mike input preamp. diyAudio. <https://www.diyaudio.com/community/threads/tl072-as-mike-input-preamp.317907/>
+
