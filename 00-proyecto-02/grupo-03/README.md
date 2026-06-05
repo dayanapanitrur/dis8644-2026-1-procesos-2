@@ -20,11 +20,11 @@ Comando Estelar
 -
 ### Descripción general/conceptual 1
 
-¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
+Este proyecto forma parte de un sintetizador modular construido colaborativamente por todo el Taller de Máquinas Electrónicas, donde cada grupo diseña y fabrica un módulo con una función específica que al final se interconecta con los demás para conformar un aparato electrónico completo. A diferencia de los instrumentos tradicionales, un sintetizador no usa cuerdas ni partes mecánicas, todo el sonido nace de circuitos electrónicos que generan oscilaciones, las cuales son filtradas, amplificadas y transformadas en audio. Nuestro grupo desarrolló el módulo VCO (Oscilador Controlado por Voltaje). El núcleo del circuito es el chip CD4046, que genera una señal eléctrica cuya frecuencia varía según el voltaje que recibe en su entrada, a mayor voltaje, mayor frecuencia y por tanto un tono más agudo, a menor voltaje, una oscilación más lenta y un tono más grave. Ese voltaje se girando el potenciómetro RV1, mientras que la resistencia R1 y los condensadores C3 y C4 definen los límites del rango dentro del cual puede oscilar el circuito. Una vez generada, la señal pasa por dos inversores Schmitt trigger del chip CD40106, que la limpian y estabilizan eliminando el ruido y las imperfecciones, y el potenciómetro RV2 permite ajustar su forma antes de que salga por el conector de audio jack hacia los demás módulos del sintetizador
 
 ### Descripción de funcionamiento 1
 
-
+Este módulo recibe dos inputs, energía eléctrica a través de los conectores barrel jack y el voltaje de control que se ajusta girando el potenciómetro RV1, el cual determina la frecuencia de oscilación. Internamente ese voltaje entra al chip CD4046, el centro del circuito, que lo convierte en una oscilación cuya velocidad varía según ese voltaje. Esa señal pasa luego por dos inversores CD40106 que la limpian y estabilizan, hasta llegar al conector de audio jack (J4), que es el output del módulo, una señal oscilante limpia y lista para ser procesada por los demás módulos del sintetizador.
 
 ### Esquemático 1
 
@@ -49,7 +49,7 @@ Comando Estelar
 
 ## Circuito 2
 
-Resonancia Magnética
+Resonancia 
 
 ### Descripción general/conceptual 2
 
@@ -106,7 +106,7 @@ Para probar los inputs y outputs de nuestro módulo VCO utilizamos un circuito d
 
 ### ¿Cómo ayudé a otro grupo?
 
-Le proporcionamos ayuda al grupo que tambien estaba haciendo osciladores, prestandole potenciometros. 
+Le proporcionamos ayuda al grupo que también estaba haciendo osciladores, prestandole potenciometros. 
 
 ### ¿Cómo me ayudó otro grupo?
 
