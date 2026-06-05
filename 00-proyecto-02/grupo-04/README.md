@@ -37,11 +37,30 @@ Nuestro circuito es un oscilador, el cual tiene la función de generar la forma 
 
 ### Descripción general/conceptual 1
 
-¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
+Nuestro circuito está compuesto por los chips 40106 y LM324, los cuales nos permiten crear un oscilador simple y experimental. Este tipo de circuito nos posibilita generar una onda cuadrada, pero al producir variaciones de attack y decay (ataque y decaimiento), se puede acercar al sonido de una onda de sierra o triangular.
+
+- ¿Qué es el ataque y el decaimiento?
+Estos conceptos vienen de las siglas ADSR, las cuales significan Attack (Ataque), Decay (Decaimiento), Sustain (Sostenimiento) y  Release (Liberación). Esta es una de las herramientas más fundamentales para moldear cómo se comporta un sonido a lo largo del tiempo. Nuestra propuesta sólo abarca los primeros dos pasos de esta secuencia.
+
+- Ataque:
+Es el tiempo que tarda en aparecer la nota, se puede interpretar como un “fade in”.
+
+- Decaimiento:
+Usualmente, debería ser el tiempo que se tarda en alcanzar el nivel de sostenimiento después del ataque. En nuestro caso, como no tiene el paso del sostenimiento del sonido, este funciona como el tiempo que tarda en desvanecerse progresivamente hasta el silencio, después de que finalice el ataque. Se puede interpretar como un “fade out”.
+
+- ¿Qué hace el oscilador?
+Chirihue mecanizado es un circuito que consta de su corazón el chip cd 40106, un inversor Schmitt Trigger variando su salida entre 0 y 1 según el voltaje ( 9v), regulados por los condensadores c2 y c3,los diodos controlando a dirección  para después variar sus velocidades en potenciadores rv2 y rv3, para después de salir ondas cuadras de estos, sean modificados por los potenciadores rv4 ( Ataque) y rv5 (Decaimiento)
+
 
 ### Descripción de funcionamiento 1
 
-Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo administra los flujos de inputs a outputs internamente? ¿Qué componente es el "corazón/cerebro"? ¿Qué truco descubrimos en el camino? ¿Especulativamente, qué se podría conectar a este módulo en el futuro?
+¿Pero cómo trabaja todo esto internamente?
+
+El condensador C2 comienza a cargarse a través de los potenciómetros RV2 y RV3. Cuando el voltaje alcanza el umbral superior del CD40106, la salida del chip cambia de estado. Luego, el condensador se descarga hasta alcanzar el umbral inferior, momento en el que el chip vuelve a cambiar de estado, generando la oscilación. 
+
+Los diodos D3 y D4 permiten que la carga y descarga del condensador ocurran por caminos distintos, mientras que los potenciómetros RV2 y RV3 controlan la velocidad de las ondas. Al modificar esta velocidad, cambia la frecuencia de la oscilación y, por lo tanto, el tono del sonido. 
+
+La señal producida por el CD40106 pasa luego por una segunda etapa formada por los diodos D5 y D6, los potenciómetros RV4 y RV5 y el condensador C3. Esto permite modificar el comportamiento de la señal ( ondas serrucho ) antes de enviarla al LM324 para amplificarlo, funcionando como seguidor de voltaje para entregar una salida estable (OUT) al resto del circuito y generando el sonido del chirihue.
 
 ### Esquemático 1
 
@@ -83,11 +102,13 @@ tratando de emocionar a otros hombres.
 
 El sonido generado por el oscilador puede asemejarse al de una llamada o transmisión espacial dependiendo de cómo se regulan las ondas. El chip CD40106 tiene una compuerta inversora o Schmitt Trigger; si la entrada está en 0, la salida pasa a 1 y cuando la entrada está en 1, la salida pasa a 0. 
 Básicamente mantienen una constante comunicación para poder generar el sonido igualando la recepción constante de señales entre la Tierra y el espacio. Somos las comunicaciones espaciales desde la tierra (humanos monitoreando la “llamada” hacia objetos en el espacio, osea como nosotros estamos mandando una señal mediante el potenciador/ chip para así poder realizar la señas y sea audible al resto).
+
 ### Descripción general/conceptual 2
 
 ** ¿Qué hace el circuito? **
 
 El funcionamiento del CD40106 lo utilizaremos  comparándolo con una conversación entre la Tierra y una nave espacial.
+
 La resistencia y el condensador son una estación terrestre que espera la respuesta de la nave ( energía ). La salida está en alto, cuando la Tierra envía una señal de radio al espacio. Mientras la señal "viaja", el condensador se carga poco a poco. Cuando alcanza cierto nivel, el CD40106 cambia su salida, como si la nave hubiera respondido al mensaje.
 Cuando la señal alcanza el umbral superior del Schmitt Trigger, es cuando la nave hubiera recibido el mensaje y respondiera. En ese momento, la salida cambia a bajo, es aqui cuando comienza la segunda parte del viaje: el condensador se descarga para dar la señal de respuesta viajando de vuelta hacia la Tierra.
 Cuando el nivel baja lo suficiente, el CD40106 vuelve a cambiar su salida y se envía un nuevo mensaje. Este proceso se repite continuamente, generando una oscilación entre estados altos y bajos que produce una señal de audio, similar a una conversación constante entre la Tierra y una nave espacial.
