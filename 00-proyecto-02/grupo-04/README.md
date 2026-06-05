@@ -19,6 +19,11 @@ Tema del grupo: **Oscilador 2**
 
 ![*chirihue mecanizado*](./imagenes/titulo1oscilador1.gif)
 
+<br>
+<br>
+<br>
+<br>
+
 *"Desembarcando en Riñihue*
 
 *Se vio la Violeta Parra*
@@ -32,6 +37,11 @@ Tema del grupo: **Oscilador 2**
 *Le vino a dar un concierto"*
 
 — Violeta Parra 
+
+<br>
+<br>
+<br>
+<br>
 
 ### Descripción general/conceptual
 
