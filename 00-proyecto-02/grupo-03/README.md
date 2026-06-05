@@ -16,7 +16,7 @@ Integrantes:
 
 ## Circuito 1
 
-Título módulo 1
+Comando Estelar   
 -
 ### Descripción general/conceptual 1
 
@@ -30,7 +30,7 @@ Título módulo 1
 
 
 ![esquemático circuito](./imagenes/esquematico-1.jpg)
-
+<https://github.com/Narelyriquelme/dis8644-2026-1-procesos-2/tree/main/00-proyecto-02/grupo-03/kicad-sch>
 
 ### PCB 1
 
@@ -49,7 +49,7 @@ Título módulo 1
 
 ## Circuito 2
 
-Título módulo 2
+Resonancia Magnética
 
 ### Descripción general/conceptual 2
 
@@ -77,7 +77,9 @@ El nucleo del módulo es el chip CD4046, cuya frecuencia de oscilación varía s
 
 
 ![esquemático circuito](./imagenes/esquematico-2.jpg)
+<https://github.com/Narelyriquelme/dis8644-2026-1-procesos-2/tree/main/00-proyecto-02/grupo-03/kicad-sch>
 
+> Esquematico rescatado de: Make: Electronic Music from Scratch: A Beginner’s Guide to Homegrown Audio Gizmos. Maker Media., al cual le agregamos cambios.
 
 ### PCB 2
 
@@ -111,3 +113,6 @@ Le proporcionamos ayuda al grupo que tambien estaba haciendo osciladores, presta
 Le daremos créditos especiales al grupo de piezos, quienes fueron de gran ayuda, ya que gracias a ellos resolvimos muchas dudas que nos surgieron a lo largo del proyecto. Al haber pasado por los mismos problemas que nosotros, nos prestaron potenciómetros, resolvieron dudas de bitácora y nos brindaron mucho apoyo emocional. También nuestro compañero Nicolás Miranda nos ayudó con las conexiones de la protoboard, ya que al inicio no logramos que sonara como oscilador, no existían variaciones y nos frustramos. Consultamos con Nico y él revisó el esquemático y la protoboard, llegando a la conclusión de que teníamos cables mal conectados, además nos ayudó a resolver como mejorar la gráfica de la pcb. 
 
 ## Bibliografía
+
++ Williams, E. (2015). Logic Noise: 4046 voltage-controlled oscillator, part one. Hackaday. https://hackaday.com/2015/08/07/logic-noise-4046-voltage-controlled-oscillator-part-one/
++ Pearson, K. (2015). Make: Electronic Music from Scratch: A Beginner’s Guide to Homegrown Audio Gizmos. Maker Media.
