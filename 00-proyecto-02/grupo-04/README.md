@@ -86,7 +86,7 @@ La señal producida por el CD40106 pasa luego por una segunda etapa formada por 
 
 ## Circuito 2
 
-![*Comunicaciones espaciales*](./imagenes/titulo2oscilador2.gif)
+![*Comunicaciones espaciales*](./imagenes/titulo2osciladorr2.gif)
 
 Espacio, miles de kilómetros de espacio,
 
