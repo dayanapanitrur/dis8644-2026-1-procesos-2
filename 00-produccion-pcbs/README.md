@@ -97,8 +97,8 @@ en pcb:
 - cambiamos C1 por condensador no polarizado
 - conectamos patita del medio de potenciómetro
 - confusión en los tamaños de los condensadores C4 y C5
-- los tamaños de las pistas usados no fueron los indicados en clases ni en estandarización.
-- faltó el paso de agregar tierra a la placa, no está hecho.
+- los tamaños de las pistas usados no fueron los indicados en clases ni en estandarización
+- faltó el paso de agregar tierra a la placa, no está hecho
 
 ### g-05-fil-02-rev-a
 
@@ -112,3 +112,14 @@ en pcb:
 - Nicolas-Miranda1312
 - paredesvania
 - Coff4
+
+### g-06-perc-01-rev-a
+
+- agregamos jack de entrada de audio que reemplace la oscilación de entrada
+- agregamos ground a los integrados que no están siendo usados
+
+### g-06-perc-02-rev-a
+
+- agregamos el detalle de las entradas de las compuertas lógicas no usadas, fueron conectadas a tierra, para definir sus estados
+- C7 estaba en el esquemático pero no en la placa, tuvimos que agregarlo
+- C4 le faltaba una conexión en la PCB, la agregamos
