@@ -53,4 +53,12 @@ Bleep labs:
 Euro racks:
 ![pedal](./imagenes/rack.jpeg)
 
+---
+
+Vino felix a pedir voluntarios para encargados de sala en el PCD.
+
+Mónica Bate va a haceer una charla <https://es.wikipedia.org/wiki/Mónica_Bate>
+
+---
+
 
