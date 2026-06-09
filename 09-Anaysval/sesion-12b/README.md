@@ -8,7 +8,7 @@ Hoy fueron las presentaciones del proyecto-02, fuimos los primeros en presentar 
 
 - Añadir texto en el esquemático para entender mejor sus partes.
 - Subir fotos de los esquemáticos usados de referencia para poder comparar y revisar.
-- El piezo 02 lo mas probable es que no se mande a hacer pero que la revisaran nuevamente (fue descartada, rip budumtz)
+- El piezo 02 lo más probable es que no se mande a hacer pero que la revisarán nuevamente (fue descartada, rip budumtz)
 
 No me pude quedar a todas las presentaciones ya que me dio fiebre y Aaron me dijo que mejor fuera a descansar ૮(◞ ‸ ◟ )ა pero las que alcancé a ver me parecieron muy cool y me gustaron mucho los conceptos con los que relacionaron su tema.
 
