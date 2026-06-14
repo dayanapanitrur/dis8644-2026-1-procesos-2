@@ -13,7 +13,7 @@ introducción a esquemáticos en kicad
 
 ---
 
-## Manipulación de Componentes
+## ¿Como usar los Componentes?
 | Tecla | Función | Descripción |
 |---|---|---|
 | `M` | Mover | Permite mover un componente seleccionado libremente. |
