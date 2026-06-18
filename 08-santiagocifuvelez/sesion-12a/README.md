@@ -49,8 +49,12 @@ Slay.
 ## 4.	PCB listas para presentación de proyecto.
 -	Propuesta 01: Chirihue Mecanizado
 
+![esquemático 1](./imagenes/pcb-front-1.png)
 ![esquemático 1](./imagenes/pcb-back-1.png)
 
 -	Propuesta 02: Comunicaciones espaciales
 
+![esquemático 2](./imagenes/pcb-front-2.png)
 ![esquemático 2](./imagenes/pcb-back-2.png)
+
+Fin c:
