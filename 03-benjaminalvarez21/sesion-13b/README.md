@@ -32,6 +32,9 @@ Pomelo de Yoko Ono se llama así porque es como una fruta híbrida.
 
 Hoy como grupo nos dedicamos a ir a comprar unas tuercas y cables que necesitábamos después para el armado de las pcb.
 
+También conversamos sobre la segunda partitura, la cual tenemos dos ideas, una es pegar el piezo en la garganta de uno de nosotros y salir de la sala gritando o haciendo ruido, activando el sintetizador con la vibración de la garganta. La idea es que mientras se aleja se desconecte el piezo y todo queda en silencio y después vuelve a conectarlo y a activarlo. Y la segunda idea bajar los piezos por la ventana de la sala y pasarlos a la sala de abajo entonces nosotros golpeamos las mesas que estan abajo mientras que el sintetizador se activa en la sala de arriba.
+
+
  ## Pomelo cap 3 y 4
 
 Mis favoritas de las que leí en estos capítulos fueron pieza de vuelo, ya que de chico un poder que me hubiese gustado tener era volar, entonces me imagino a mi yo de niño volando. Y la segunda sería pieza solar, solo porque acaso es una referencia a Minecraft antes de que este existiera? No lo sé. 
