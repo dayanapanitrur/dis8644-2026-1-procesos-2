@@ -114,6 +114,7 @@ No sé si la intención es cuestionar la forma en que consumo el cine vs la vida
 No hay poema favorito hoy, pero si eligiara una diria esté:
 
 GUIÓN CINEMATOGRÁFICO 3
+
 Pedir al público que corte la parte de imagen
 
 de la pantalla que no le guste.
