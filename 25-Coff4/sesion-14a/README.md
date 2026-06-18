@@ -56,4 +56,4 @@ En medio de la partitura, esta igualmente se parte en 5, pero en este caso, cada
 
 ![*chirihue mecanizado*](./imagenes/partitura_dos.jpg)
 
-![*chirihue mecanizado*](./imagenes/partitura_completa.jpg)
+![*chirihue mecanizado*](./imagenes/Partitura_completa.jpg)
