@@ -31,17 +31,26 @@ Distintas acciones y situaciones que una persona podría realizar en su vida cot
 Se trata el tema del tiempo y cómo nuestra percepción de este podría modificarse a través de pequeñas acciones o cambios en la rutina. Sin embargo, estas posibilidades suelen pasar desapercibidas porque las personas continúan siguiendo las normas y estructuras establecidas socialmente normadas por el tiempo. Por lo que si yo puedo cambiar el tiempo de un reloj, la gente se daria cuenta que el tiempo cambio?.
 
 
-**favorito**
+**Favorito**
 
 MAQUINA DE GASTAR
+
 Pedirle a un hombre que gaste varias cosas
+
 antes que uno las use.
+
 Como:
+
 Mujeres
+
 Ropas
+
 Libros
+
 Departamentos
+
 Pianos
+
 Máquinas de escribir.
 
 Primavera 1964
@@ -53,14 +62,20 @@ Este fue uno de los capítulos que más me costó entender. Muchas de las situac
 
 Ò las propuestas buscaban romper con lo normativo y hacer que el lector pensara en otras posibilidades de actuar. Pero eso seguiria siendo parecido al de los capítulos anteriores: una serie de instrucciones o acciones para realizar. Acciones son muy simples y cotidianas, como tocar una pared o realizar tareas que podrían parecer parte de una lista de cosas por hacer. No lo entendi y quizas por eso se llama poesìa?.
 
-**favorito**
+**Favorito**
 
 PIEZA DE DÓLAR
+
 Elegir una suma de dólares.
+
 Imaginar todas las cosas que
+
 pueden comprarse con esa suma. (a)
+
 Imaginar todas las cosas que
+
 no pueden compararse con esa suma. (b)
+
 Anotarlas en un trozo de papel.
 
 Primavera 1963
