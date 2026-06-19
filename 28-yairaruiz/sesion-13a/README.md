@@ -6,6 +6,10 @@ Un tema que me llamó la atención que se conversó en clases y me quedó dando 
 
 + Ejemplo: Sid mezcla y reconstruye los juguetes para crear otros nuevos. No se limita a la función original que le entregan. Permiten la experimentación y transformación de los objetos. Esto demuestra que la tecnología también puede ser reinterpretada creativamente por los usuarios, generando nuevas posibilidades y significados.
 
+
+![sid](./imagenes/sid.png/)
+
+
  ## Trabajo en clase: 
 
 Para exportar las placas hay que tener 7 capas:
