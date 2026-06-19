@@ -77,6 +77,8 @@ De la misma manera, soldamos a Relo con los componentes que teníamos disponible
 
 ## Partituras 
 
+## Partitura comando estelar
+
 ![comandoestelar](./imagenes/comandoestelar.jpeg)
 
 
@@ -88,6 +90,8 @@ Elegimos las formas curvas y continuas porque se parecen a cómo funciona nuestr
 
 también , nos inspiramos en algunos referentes de partituras gráficas que vimos anteriormente, pero le dimos vida a nuestra pieza gráfica con la ayuda de nuestra interpretación de los sonidos del sintetizador.
 
+
+## Partitura resonancia
 
 ![resonancia](./imagenes/resonancia.jpeg)
 
