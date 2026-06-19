@@ -6,6 +6,10 @@ Este día fue básicamente de soldadura. Yo nunca había soldado con cautín, en
 
 Fue un muy buen ambiente en la sala, y poder conversar con mis compañeros y ayudarnos. 
 
+
+![proceso1](./imagenes/proceso1.png/)
+
+
 Para avanzar en esta clase nos dividimos en parejas: Pau y Kriss ordenaron los componentes, Cata y Kiara soldaron el reloj y el oscilador de comunicaciones espaciales, y Santi y yo soldamos el Chirihue.
 
 Finalmente, también soldamos un secuenciador del grupo 02.
@@ -15,6 +19,9 @@ El proceso fue muy ordenado porque, al tener el archivo de las PCB, ordenar los 
 Con los que tuvimos más dudas al soldar fueron los de estándares, por lo que igual nos enfocamos en dejar mejor desarrollada la parte del oscilador específicamente. 
 
 Los potenciómetros, switch y salidas también los dejamos para después, para adaptarlos con la carcasa ;)
+
+
+![proceso2](./imagenes/proceso2.png/)
 
 
 videito soldando en clase: 
