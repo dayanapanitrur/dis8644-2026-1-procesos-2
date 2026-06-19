@@ -1,5 +1,5 @@
 # sesion-13a
-Martes 09 de junio del 2026 - Lectura - Inicio de Examen
+Martes 09 de junio del 2026 - Lectura - Inicio Proyecto 3 / Examen
 
 # Lectura 
 

@@ -36,31 +36,78 @@ Este libro se enfoca en el mismo principio anterior, me dejo como tarea buscarlo
 
 ### De KiCad a JLCPCB
 
-Gerber ➣ formato pcb
+Lo primero es que esta manera funciona con JLCPCB. Desconozco si servirá con otro proveedor
 
-➣ 7 capas mínimo
 
-  ➣ Cu F-B / silkscreen (Dibujos) /Edge Cut F- B(contorno)/Mask F-B (mascara)
+1. El formato de archivo _gerber_ (.grb) es el estándar para la fabricación de PCB. Este se categoriza com un tipo de archivo ASCII vectorial.
 
----
-    
-➣Trazar / Plot 
+Para poder fabricar y generar los archivos correspondientes, necesitamos mínimo 7 capas
 
-➣ Config estándar 
+| N° | Capa         | Descripción       |
+| -- | ------------ | ----------------- |
+| 1  | Cu F         | Cobre frontal     |
+| 2  | Cu B         | Cobre trasero     |
+| 3  | Edge Cut     | Corte contorno    |
+| 4  | Mask F       | Negativo frontal  |
+| 5  | Mask B       | Negativo trasero  |
+| 6  | Silkscreen F | _Dibujos_ frontal |
+| 7  | Silkscreen B | _Dibujos_ trasero |
 
-  ➣Trazar
-	
-  ➣Generar archivos de taladrado 
-	
-  ➣8 archivos >.GRL / .GRB
 
----
+2. Para poder exportar estos archivos, abriremos nuestro proyecto y luego el _.kicad_pcb_
 
-➣Vizor Gerber (KiCad)
+3. Ahora en la pestaña de archivo, seleccionaremos _Trazar_ (_plot_, si lo tenemos en ingles)
 
-  ➣ Mascara (funciona en negativo)		
+![KICAD](./imagenes/sc54.png)
 
-➣ Comprimir > .ZIP
+
+
+4. Debemos tener las capas seleccionados, según lo que necesitemos. En nuestro caso se realiza con las 7 ya mencionadas
+
+![KICAD](./imagenes/sc55.png)
+
+
+
+5. Posteriormente debemos definir la ruta de guardado de los archivos, para ello seleccionaremos el icono de carpeta y definimos donde queremos guardarlos
+
+![KICAD](./imagenes/sc56.png)
+
+
+
+6. Una vez ya definido la ubicación, procedemos a _**Trazar**_ y luego a _**Generar archivos de taladro**_
+
+![KICAD](./imagenes/sc60.png)
+
+
+7. Con nuestro archivos generados podemos ahora comprimirlos en **_.ZIP_**
+
+![KICAD](./imagenes/sc57.png)
+
+![KICAD](./imagenes/sc58.png)
+
+![KICAD](./imagenes/sc59.png)
+
+
+
+8. Ahora ingresamos  [JLCPCB](https://jlcpcb.com/) y seleccionamos **_Get Instant Quote_**
+
+![JLCPCB](./imagenes/sc61.png)
+
+
+
+9. Finalmente cargarmos nuestro _.zip_
+
+![KICAD](./imagenes/sc62.png)
+
+
+10. Podemos configurar aspectos como el color de las pcb, espesores y acabados en el apartado de **_PCB Specifications_**
+
+![KICAD](./imagenes/sc63.png)
+
+
+11. Finalmente, podemos pedir nuestras PCB a China
+
+![KICAD](./imagenes/sc64.png)
 
 <br>
 
@@ -80,19 +127,23 @@ Creo que poseo una visión bastante industrial, pero estoy tratando de hacer un 
 
 1. En base a la experiencia que he vivido con la electrónica, donde pareciera ser que todo funciona por su propía cuenta, pensaba en que el sintetizador funcionara únicamente por el ambiente, que nosotros como usuarios no podamos modificar activamente el sonido. Por lo mismo, la carcasa debe seguir esta lógica y pensaba en posibles salidas
 
-   - Un material sólido y rígido que no permita manipular el sinte mediante potenciometros, es decir acero o cemento
+ - Un material sólido y rígido como cemento o acero. Que además no permita manipular el sinte mediante potenciometros
   
-     [IMAGEN 1]
+     ![IMAGEN 1](./imagenes/idea01.jpg)
 
-     [IMAGEN 2]
+     ![IMAGEN 2](./imagenes/idea02.jpg)
 
-     <br>
+     ![IMAGEN 3](./imagenes/idea03.jpg)
 
-    - Materiales organicos que se infiltren y camuflen con la naturaleza, como podría ser un tronco de madera en bruto o demás
+
+<br>
+
+- Materiales organicos que se infiltren y camuflen con la naturaleza, como podría ser un tronco de madera en bruto o demás
     
-     [IMAGEN 1]
+     ![IMAGEN 1](./imagenes/idea04.jpg)
 
-     [IMAGEN 2]
+     ![IMAGEN 2](./imagenes/idea05.jpg)
+
 
      <br>
 
@@ -104,3 +155,14 @@ Creo que poseo una visión bastante industrial, pero estoy tratando de hacer un 
 
 Soy una persona apasionada por la impresión 3D y aún así siento que no es la tecnica adecuada. Esto por el momento no tiene una explicación, pero quería plasmarlo
 
+<br>
+
+## Yoko Ono - Grapefruit
+
+Mi primera impresión del libro fue de sorpresa, no me esperaba tener que leer algo asi para taller y esto es en parte por lo conceptual del libro. 
+
+Lo que si pude identficar en el primer capitulo fue una tendencia a acciones que se repiten en ciclos. Con esto me refiero a que se pueden realizar múltiples veces de manera indefinida, tal como un secuenciador 😛.
+
+Algo que no me habia percatado y que luego de hablar con otras personas del libro fue darme cuenta que cada _poema_ son instrucciones que generan un resultado artistico, que a mi parecer son performance. Luego de darle más vueltas logré entender el porque de esta lectura, al solicitarnos hacer _partituras_, este libro nos indica una manera fuera de la norma de como se puede escirbir _sonido_
+
+Otro punto importante, es que al leer y analizar este libro, me doy cuenta que mi visión y manera de entender las cosas es muy rígida, me cuesta salir de mi caja de pensamiento. Muchas veces pienso de maneras concretas, se que ningún extremo es bueno, por lo mismo espero que este ejercicio me sirva para pensar de manera más conceptual 

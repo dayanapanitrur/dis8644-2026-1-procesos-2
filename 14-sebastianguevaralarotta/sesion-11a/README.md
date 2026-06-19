@@ -1,31 +1,47 @@
-# sesion-11a
+# Sesión 11A
 
-En esta ocasion la introduccion de la clase se basa en como las capas de las placas pueden ayudar con el tema de la parte decorativa. 
+## Introducción
 
-Con nuestras compañeras estamos trabajando en el desarollo de el kicad y el prototipado en la breadboard. 
+La clase comenzó con una explicación sobre cómo las distintas capas de una PCB pueden utilizarse no solo para el funcionamiento del circuito, sino también para incorporar elementos gráficos y decorativos en el diseño final.
 
-Materiales que estamos utilizando: 
+## Avance del proyecto
 
-1- bread board
-2- cables caiman x2 
-3- chip 4068 UV / LM358
-4- LM324
-5- LM4047
-6- Cables de conexion 
-7- Resistencis 10k 
+Junto a mis compañeras continuamos trabajando en el desarrollo del módulo utilizando **KiCad** para el diseño y **breadboard** para realizar pruebas de funcionamiento antes de fabricar la placa.
 
-# CONSEJOS - ¿Que hacer cuando no usamos todos las salidas?
+## Materiales utilizados
 
-si trabajamos con muchos modulos y no usamos todos, los otros: UNUSED PINS - Dejar hacia vcc y el otro X 
+- Breadboard
+- Cables caimán (x2)
+- CD4068
+- LM358
+- LM324
+- LM4047
+- Cables de conexión
+- Resistencias de 10 kΩ
 
-LM324 - patita que no usamos ponemos resitencias de 10K 
+## Apuntes de clase
 
-MODULAR GRID - permite ver personas que estan trabajando en proyectos de interes común. 
+### Pines no utilizados
 
-Establecer parametros para poder construir un sistema modular que sean compatibles
+Cuando un circuito integrado tiene entradas o salidas que no se utilizarán, se recomienda no dejarlas flotando. En KiCad pueden marcarse como **No Connect (X)** o conectarse según las indicaciones del componente.
 
-estandar de alimentacion, tamaño dinamico. 
+### LM324
 
+Las entradas de los amplificadores operacionales que no se utilicen deben estabilizarse mediante una resistencia de **10 kΩ** para evitar comportamientos inesperados.
+
+### Modular Grid
+
+Se revisó el concepto de trabajo modular, donde distintos grupos desarrollan módulos compatibles entre sí. Para lograrlo es importante definir estándares comunes como:
+
+- Alimentación.
+- Tamaño del módulo.
+- Conexiones.
+- Compatibilidad entre sistemas.
+
+## Investigación complementaria
+
+Para comprender mejor el funcionamiento de los filtros electrónicos, revisamos el siguiente artículo de DigiKey:
+Este recurso ayudó a reforzar conceptos relacionados con filtros pasa bajos y pasa altos, los cuales son relevantes para el desarrollo de nuestro proyecto.
 Durante el desarollo de el trabajo en grupo buscamos un lugar donde sacar informacion y encontramos este blog el cual ayuda bastante a la hora de comprender bien como funciona. dejo el link por aca para que puedan verlo:
 
 https://www.digikey.es/en/maker/blogs/2024/the-basics-of-low-and-high-pass-filters?srsltid=AfmBOopSTznbw23ww08-Qlv8o2TeXp4VhYJpJlnJypODk3LJK7IhJKhm

@@ -1,5 +1,5 @@
 # sesion-10b
-# sesion-10b
+
 #Apuntes de clase
 
 ## Diferencia entre electricidad y electrónica
