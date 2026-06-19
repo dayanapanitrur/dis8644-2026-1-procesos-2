@@ -67,17 +67,17 @@ Definimos con cuál PCB de otro grupo queríamos trabajar e implementar en nuest
 
 De la misma manera, soldamos a Relo con los componentes que teníamos disponibles. 
 
-![soldando](./imagenes/CD4015.png)
+![soldando](./imagenes/soldando.jpeg)
 
-![placas](./imagenes/CD4015.png)
+![placas](./imagenes/placas.jpeg)
 
-![placassoldadass](./imagenes/CD4015.png)
+![placassoldadass](./imagenes/placassoldadass.jpeg)
 
-![fotogrupal](./imagenes/CD4015.png)
+![fotogrupal](./imagenes/fotogrupo.jpeg)
 
 ## Partituras 
 
-![comandoestelar](./imagenes/CD4015.png)
+![comandoestelar](./imagenes/comandoestelar.jpeg)
 
 
 Hicimos esta partitura a partir de lo que nos hacía imaginar el sonido de nuestro sintetizador, Comando Estelar. Mientras escuchábamos las distintas oscilaciones, cada uno fue dibujando libremente las formas que le transmitía el sonido. Por eso aparecen líneas onduladas, espirales, trazos más fuertes y otros más suaves.
@@ -89,7 +89,7 @@ Elegimos las formas curvas y continuas porque se parecen a cómo funciona nuestr
 también , nos inspiramos en algunos referentes de partituras gráficas que vimos anteriormente, pero le dimos vida a nuestra pieza gráfica con la ayuda de nuestra interpretación de los sonidos del sintetizador.
 
 
-![resonancia](./imagenes/resonancia.png)
+![resonancia](./imagenes/resonancia.jpeg)
 
 
 Respecto a esta partitura, buscamos referentes de partituras experimentales y, en base a ello, nos gustó la idea de interpretarla no como una notación musical particular, sino llevarla más hacia elementos visuales que representaran lo que escuchábamos. Al prestar atención a cómo sonaba nuestro oscilador, cada uno interpretó mediante alguna forma, símbolo o línea aquello que percibía. Finalmente, coincidimos en esta forma de espiral, que aumenta o disminuye su tamaño según los cambios de intensidad, frecuencia y comportamiento del sonido.
@@ -97,13 +97,13 @@ Respecto a esta partitura, buscamos referentes de partituras experimentales y, e
 Así, nuestra partitura lleva la experiencia auditiva al plano gráfico. Además, la repetición de los círculos y sus distintos tamaños representan cómo el sonido se expande y genera vibraciones.
 
 
-![referente1](./imagenes/referente1.png)
+![referente1](./imagenes/referente1.jpeg)
 
-![referente2](./imagenes/referent2.png)
+![referente2](./imagenes/referent2.jpeg)
 
-![referente3](./imagenes/referente3.png)
+![referente3](./imagenes/referente3.jpeg)
 
-![referente4](./imagenes/referente4.png)
+![referente4](./imagenes/referente4.jpeg)
 
 
 
