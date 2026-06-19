@@ -36,7 +36,7 @@ Lo del "a un espacio" en *"Pieza de Colección I"* me confundía pero busqué y 
 
 Por lo que veo, este capítulo de el cine es el único medio del libro que necesita sala y público.
 
-*"Guión Cinematográfico 5"*: le da instrucciones al público sobre lo que tiene prohibido ver durante la película: no mirar objetos redondos, y si mirás uno por accidente, fijarlo hasta que se ponga cuadrado, no mirar el azul, y si aparece, castigarse, jajaj tienes que trabajar activamente para no ver cosas, me parece una ironía graciosa
+*"Guión Cinematográfico 5"*: le da instrucciones al público sobre lo que tiene prohibido ver durante la película: no mirar objetos redondos, y si mirás uno por accidente, fijarlo hasta que se ponga cuadrado, no mirar el azul, y si aparece, castigarse, jajaj tienes que trabajar activamente para no ver cosas, me parece una ironía muy graciosa
 
 *"Cuestionario para Film Nº 4"*: pide tu dirección en tres tiempos, la pasada, presente y futura, dspués pregunta qué colores te gustaron, si viste imágenes hexagonales, si sos una persona más bien boba, en qué parte de la pantalla estabas mirando, nunca pregunta si te gustó la película, me encantaría rellenar un cuestionario así después de ver cualquier cosa.
 
