@@ -16,7 +16,7 @@ Comencemos c:
 
 ## 1. Lista de materiales (bom):
 
-### Chirigue mecanizado:
+### Chirigüe mecanizado:
 
 | Componente | Cantidad | valor unitario | link/Comprar |
 |------------|----------|--------------|---------|
@@ -31,7 +31,6 @@ Comencemos c:
 | Conector DC | 1 | $239 CLP | AliExpress | 
 | Conector de audio | 1 | $51 CLP | AliExpress | 
 | Conector de alimentación | 1 | $148 CLP | AliExpress | 
-| Switch | 1 | — | AliExpress | 
 | Separador o tornillo de montaje (M3×8) | 4 | $54 CLP | Pernos Alameda  |
 
 ### Comunicaciones espaciales:
@@ -51,29 +50,28 @@ Comencemos c:
 | Conector DC | 1 | $239 CLP | AliExpress | 
 | Conector de audio | 1 | $51 CLP | AliExpress | 
 | Conector de alimentación | 1 | $148 CLP | AliExpress | 
-| Switch | 1 | — | AliExpress |
 | Separador o tornillo de montaje (M3×8) | 4 | $54 CLP | Pernos Alameda  |
 
-## 2. ensamblaje:
+## 2. Ensamblaje:
 
 ### Placas Soldadas:
 ![placas-soldadas](./imagenes/placas-soldadas.jpg)
 
 ### Placas Grupo 04 :
 
-![placas-soldadas](./imagenes/placas-grupo4.jpg)
+![placas-grupo4](./imagenes/placas-grupo4.jpg)
 
 ### Placas individuales :
 
 | Placa | Función | Grupo | Foto |
 |------------|----------|--------------|---------|
-| Chirigue mecanizado | Oscilador | Grupo 04 | ![chirihue](./imagenes/chirihue.jpg) |
+| Chirigüe mecanizado | Oscilador | Grupo 04 | ![chirigue](./imagenes/chirigue.jpg) |
 | Comunicaciones espaciales | Oscilador | Grupo 04 | ![comunicaciones-esp](./imagenes/comunicaciones-esp.jpg) |
 | Secuenciador 02 | Secuenciador | Grupo 02 | ![secunciador](./imagenes/secuenciador.jpg)  |
 | Relo | Reloj | Profesores | ![relo](./imagenes/relo.jpg) |
 
 
-## 3. propuesta partituras:
+## 3. Propuesta Partituras:
 
 La música clásica desde su inicio ha intentado imitar e interpretar a la naturaleza; por ejemplo lo podemos ver en las cuatro estaciones de Vivaldi o La tempestad de Robert Smith, entre otras piezas las cuales siempre quieren representar, entregar una sensación y/o espacio. 
 
@@ -85,27 +83,27 @@ Además, poder crear un espacio donde todos puedan participar por igual en este 
 
 #### Idea 1
 
-Quédate de pie
-
-Cierra los ojos
-
-Imagina que estás en el bosque, cae la lluvia y sientes las manos heladas
-
-se va acercando un pájaro a tu oído
-
-dejalo cantar hasta que sientas que te debes ir
+> Quédate de pie
+>
+> Cierra los ojos
+>
+> Imagina que estás en el bosque, cae la lluvia y sientes las manos heladas
+>
+> se va acercando un pájaro a tu oído
+>
+> dejalo cantar hasta que sientas que te debes ir
 
 #### Idea 2
 
-Instructivo de como tocar un Chirihue: 
-
-Junto a la persona que tienes al lado
-
-en frente o en tu mente.
-
-Abrazarla pensando que es la persona más importante en tu vida
-
-mientras el sonido del chirihue los une.
+> *Instructivo de como tocar un Chirihue:*
+>
+> Junto a la persona que tienes al lado
+>
+> en frente o en tu mente.*
+>
+> Abrazarla pensando que es la persona más importante en tu vida
+>
+> mientras el sonido del chirihue los une.
 
 
 
