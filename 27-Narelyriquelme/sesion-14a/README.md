@@ -25,9 +25,9 @@ Para salir del bloqueo mental, implementamos la técnica de salir a caminar sin 
 
 Aqui dejo imagenes del avance del trabajo
 
-![img 1](./imagenes/nombre imagen)
-![img 2](./imagenes/nombre imagen)
-![img 3](./imagenes/nombre imagen)
+![img 1](./imagenes/soldar.jpeg)
+![img 2](./imagenes/placas.jpeg)
+![img 3](./imagenes/trabajo.jpg)
 
 ---
 
