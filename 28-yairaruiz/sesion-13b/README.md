@@ -15,7 +15,9 @@ Es curioso pensar que todos estamos de acuerdo en qué hora es y organizamos nue
   
 Si vamos cambiando con el tiempo, también nuestra forma de nombrarnos podría cambiar. Como si el nombre no tuviera por qué ser algo fijo para toda la vida porque nosotros mismos tampoco lo somos. 
 
-Es algo que igual me hace sentido, porque a veces por autoestima puede no convencerme mi nombre y me gustaría tener algo que se sienta más fuerte o que me represente mejor. Pero al mismo tiempo siento que querer cambiarlo todo el tiempo también puede venir de no aceptarme del todo o de querer adaptarme a lo que el resto espera. Si cambio con el tiempo, mi nombre seguirá siendo Yaira pero “Yaira de hoy” no significa lo mismo que el “Yaira de ayer”, aunque siga siendo la misma persona.
+Es algo que igual me hace sentido, porque a veces por autoestima puede no convencerme mi nombre y me gustaría tener algo que se sienta más fuerte o que me represente mejor. Pero al mismo tiempo siento que querer cambiarlo todo el tiempo también puede venir de no aceptarme del todo o de querer adaptarme a lo que el resto espera. 
+
+Prefiero creer que si cambio con el tiempo, mi nombre seguirá siendo Yaira pero “Yaira de hoy” no significa lo mismo que el “Yaira de ayer”, aunque siga siendo la misma persona.
 
 + Pieza de Espejo: "En vez de conseguir un espejo, conseguir una persona."
   
