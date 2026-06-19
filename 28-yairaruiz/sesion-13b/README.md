@@ -37,4 +37,4 @@ Este capítulo me pareció más difícil de leer porque no son poemas "tradicion
 + Música imaginaria
 + Pinturas para construir en la cabeza
   
-Me hace pensar que Ono está jugando con la idea de que todo puede volverse un producto, incluso cosas que no existen o que solo están en la mente. Al final siento que no importa tanto el objeto en sí, sino la idea que hay detrás de lo que se “vende”.
+Me hace pensar que Ono está jugando con la idea de que todo puede volverse un producto, incluso cosas que no existen o que solo están en la mente. 
