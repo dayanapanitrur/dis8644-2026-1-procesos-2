@@ -100,6 +100,8 @@ Respecto a esta partitura, buscamos referentes de partituras experimentales y, e
 
 Así, nuestra partitura lleva la experiencia auditiva al plano gráfico. Además, la repetición de los círculos y sus distintos tamaños representan cómo el sonido se expande y genera vibraciones.
 
+## Referentes visuales partituras
+Estos son algunos de los referentes visuales que utilizamos para inspirarnos. Observamos sus formas, composiciones y maneras de representar los sonidos de forma gráfica
 
 ![referente1](./imagenes/referente1.jpeg)
 
