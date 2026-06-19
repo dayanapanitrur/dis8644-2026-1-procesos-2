@@ -42,7 +42,7 @@ Además es muy reconocida por su libro Pomelo, donde interpreta instrucciones pa
 ![ono](./imagenes/ono.png/)
 
 
-**Capítulo 1: Música**
+## Capítulo 1: Música
 
 Me costó entender el concepto porque no habla de música de forma tradicional. En lugar de canciones o instrumentos, propone pensar la música a través de sonidos cotidianos, imaginarios o imposibles de escuchar. Tuve que leer varias veces las instrucciones para poder visualizarlas.
 
