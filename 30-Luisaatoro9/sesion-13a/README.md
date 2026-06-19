@@ -39,9 +39,9 @@ Porque Yoko dice que la obra no es el cuadro, sino lo que uno siente al leer la 
 
 Hablamos de distintos temas al inicio. Luego hablaron de los arreglos que le hicieron a nuestras PCBs para poder mandarlas a fabricar y que pudieran funcionar. Nos hicieron comentarios sobre todos los ajustes realizados a cada grupo, como la colocación de resistencias, huellas, etc. Cada grupo tiene obligatoriamente una placa que se mandará a hacer. Comentaron que el jack no lo entendimos bien o no quedó claro cómo funcionaba.
 
-## 🛠️ Guía de Exportación desde KiCad - Nos subiran video más a detalle 
+## Guía de Exportación desde KiCad - Nos subiran video más a detalle 
 
-> 💡 **Antes de empezar:** Asegúrarse de que las zonas de cobre estén rellenas y pasa el DRC para evitar errores de última hora.
+ **Antes de empezar:** Asegúrarse de que las zonas de cobre estén rellenas y pasa el DRC para evitar errores de última hora.
 
 ### 1. Selección de Capas (Las 7 obligatorias)
 
@@ -67,7 +67,7 @@ Para que el fabricante acepte el diseño, se debe incluir estas capas en la secc
 
 **Material de Trabajo:** Los profes subieron una carpeta con la versión corregida de nuestros diseños. La ruta es: Archivos > Producción > [Nombre del archivo].zip
 
-### 🌐 Sobre JLCPCB (Fabricación)
+### Sobre JLCPCB (Fabricación)
 
 Los profes nos explicaron que esta es la plataforma que se usaron para mandar a fabricar las placas a China. 
 
@@ -79,7 +79,7 @@ Los profes nos explicaron que esta es la plataforma que se usaron para mandar a 
 
 Hablamos sobre las cuotas y el costo de la producción. Los profes financiarán gran parte del gasto, ya que muchos de los materiales se quedarán en el laboratorio, por eso, en el fondo, esto termina siendo una inversión para el LIB (por lo que entendí).
 
-### 🎨 Carcasa y Experiencia de Usuario (UX)
+###  Carcasa y Experiencia de Usuario (UX)
 
 Entramos al tema de cómo "vestir" el proyecto para que no parezca solo un experimento de ingeniería, sino un producto pensado para el usuario.
 
@@ -96,7 +96,7 @@ Entramos al tema de cómo "vestir" el proyecto para que no parezca solo un exper
 * **Dato de UX:** El volumen normalmente sube hacia la derecha. Si lo hacemos al revés, hay que saber justificarlo.
 * **Colaboración:** Se puede poblar la placa propia, trabajar en duplas o incluso intercambiar/mezclar placas con otros grupos.
 
-### 🛠️ Materiales y Formatos
+### Materiales y Formatos
 
 * **Hammond Boxes:** Cajas de aluminio clásicas (vistas en la tienda Katode).
 * **Eurorack DIY:** Formatos tipo "sándwich" o placas montadas en ángulo.
