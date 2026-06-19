@@ -359,3 +359,64 @@ Integrantes:
 
 ## Partituras
 
+-Espacio
+
+Encontrar un espacio en el mundo al aire libre
+
+Escuchar tus pensamientos por 1 minuto
+
+Y descartar por un minuto más
+
+No hay expectativas
+
+-Primer acercamiento
+
+Buscar una hoja otoñal
+
+O una posibilidad de generar sombra
+
+Acercarse al dispositivo
+
+—
+
+-Contemplar
+
+Observa qué sucede si alejas y acercas la hoja otoñal 3 veces
+
+Presta atención a solo uno de los sonidos que aparecen por 30 segundos
+
+—
+
+-Voz
+
+Escoger alguno de los sonidos que aparecen y emularlo
+
+Responder con tu propio sonido al sonido que emite el sintetizador
+
+Cantarle al sonido que escuchas
+
+—
+
+-Cuerpo
+
+En grupo
+
+Mirarse a los ojos
+
+Reírse si es necesario
+
+Tocar una pieza del sintetizador
+con una parte de tu cuerpo
+
+Sentir la textura del material
+
+A su vez, sentir la textura del sonido
+
+Taparse un oído después del otro reiteradamente
+mientras otros juegan con el sonido
+
+Ponerse de pie y zapatear al ritmo del sonido
+
+Alzar una pierna cada vez que el sonido es distinto al anterior
+
+—
