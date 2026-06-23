@@ -48,3 +48,18 @@ Y lo anteriormente, lo confirmo porque en mi cabeza siempre están sonando const
 
 Mi texto favorito de este capítulo, fue: Pieza de peces. 
 
+![1](./imagenes/pieza-de-peces.png)
+
+Cuando de niño iba al campo, tomaba el teléfono de mi mamá, y grababa el sonido de los riachuelos.
+
+### Capítulo 2 — Pintura
+
+Este capítulo, es como una experimentación visual, donde yo creo que volvemos a ser niñxs…, ya que cuando chico, el mundo se solía ver un poco como estos textos de este capítulo.  Por ejemplo, este texto:
+
+![2](./imagenes/una-pintura-para-ver-el-cielo.png)
+
+Era algo que hacía con mi mamá (Mujer), luego me agachaba y veía hacia arriba a través de mis propios muslos (Yo), y ver el cielo a través de hoyitos que hacía con los dedos, o con hojas de papel, que, según yo, era como mi visor de pirata para ver más lejos. 
+
+Entonces yo creo que este capitulo nos invita a esculcar nuestra niñez o lo que solíamos hacer, pero desde una perspectiva más adulta, incluso hasta de doble sentido. 
+
+Fin. c:
