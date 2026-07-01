@@ -2,10 +2,12 @@
 
 ## integrantes
 
-> *Paula Fuentes Mena (paulafuentesm)*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*Santiago Cifuentes Vélez (santiagocifuvelez)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><br>
-*Kristel Ladrón de Guevara Jara (kristelagj)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yaira Alexandra Ruiz Ossandón / *(yairaruiz)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br> Catalina Anatonia Oyanedel Sanchez / *(catalinaoyanedel-01)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antonella Kiara Aguilar Plate / *(antokiaraa)*
+- Paula Fuentes Mena (paulafuentesm)
+- Santiago Cifuentes Vélez (santiagocifuvelez)
+- Kristel Ladrón de Guevara Jara (kristelagj)
+- Yaira Alexandra Ruiz Ossandón / (yairaruiz)
+- Catalina Anatonia Oyanedel Sanchez / *(catalinaoyanedel-01)
+- Antonella Kiara Aguilar Plate / (antokiaraa)
 
 ## criterios de diseño del sistema
 
